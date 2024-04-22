@@ -1,0 +1,4635 @@
+-----------------------------------
+9/29/2023 10:46:17 AM
+9/29/2023 10:46:17 AM Error reading parameters
+DocumentType   = 
+LFSuffix       = 
+DocumentID     = 
+Branch         = 
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+9/29/2023 11:56:56 AM
+9/29/2023 11:56:56 AM Error reading parameters
+DocumentType   = 
+LFSuffix       = 
+DocumentID     = 
+Branch         = 
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+9/29/2023 12:03:07 PM
+9/29/2023 12:03:07 PM Error reading parameters
+DocumentType   = 
+LFSuffix       = 
+DocumentID     = 
+Branch         = 
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+9/29/2023 3:37:52 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+-----------------------------------
+9/29/2023 3:38:14 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+-----------------------------------
+9/29/2023 3:43:56 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 3:44:34 PM Laserfiche is closed, trying to open it
+-----------------------------------
+9/29/2023 3:46:31 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 3:46:44 PM Laserfiche is closed, trying to open it
+-----------------------------------
+9/29/2023 3:47:04 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 3:47:25 PM Laserfiche is closed, trying to open it
+-----------------------------------
+9/29/2023 3:48:41 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 3:48:53 PM Laserfiche is closed, trying to open it
+9/29/2023 3:49:06 PM Not logged into a database, try to open new connection.
+9/29/2023 3:49:13 PM DestFolder = \OFFER
+9/29/2023 4:09:38 PM DocName = att6-att2
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: {}
+Search Syntax after replace: {}
+9/29/2023 4:15:54 PM Cannot find volume Default
+-----------------------------------
+9/29/2023 4:16:01 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+-----------------------------------
+9/29/2023 4:27:32 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 4:28:13 PM DestFolder = \OFFER
+9/29/2023 4:28:13 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+9/29/2023 4:28:28 PM Cannot create destination folder = Unable to cast COM object of type 'System.__ComObject' to interface type 'LFSO83Lib.LFFolder'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{E24AFCD3-3CEA-4A7D-AFF3-A578C86DE38D}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+-----------------------------------
+9/29/2023 4:28:59 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 4:29:07 PM DestFolder = \OFFER
+9/29/2023 4:29:07 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+9/29/2023 4:29:07 PM Document created = 6285
+9/29/2023 4:29:07 PM Template name = Offer
+9/29/2023 4:29:10 PM Cannot find Template Offer (DocType = OFFER
+-----------------------------------
+9/29/2023 4:29:51 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+-----------------------------------
+9/29/2023 4:30:14 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 4:30:28 PM Not logged into a database, try to open new connection.
+9/29/2023 4:30:33 PM DestFolder = \OFFER
+9/29/2023 4:30:36 PM DocName = att6-att2
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: {}
+Search Syntax after replace: {}
+-----------------------------------
+9/29/2023 4:31:47 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+9/29/2023 4:32:00 PM DestFolder = \OFFER
+9/29/2023 4:32:01 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+9/29/2023 4:32:33 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+10/2/2023 11:26:49 AM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 11:26:49 AM Laserfiche is closed, trying to open it
+10/2/2023 12:18:36 PM DestFolder = \OFFER
+10/2/2023 12:18:36 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+10/2/2023 12:18:45 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+10/2/2023 12:18:49 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 12:19:08 PM DestFolder = \OFFER
+10/2/2023 12:19:11 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+-----------------------------------
+10/2/2023 12:29:41 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+-----------------------------------
+10/2/2023 2:10:36 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 2:10:52 PM DestFolder = \OFFER
+10/2/2023 2:10:52 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+10/2/2023 2:10:52 PMError: A syntax error was encountered while processing the search or query statement.
+10/2/2023 2:11:03 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+10/2/2023 2:11:18 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 2:11:19 PM DestFolder = \OFFER
+10/2/2023 2:11:19 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+10/2/2023 2:11:19 PMError: A syntax error was encountered while processing the search or query statement.
+10/2/2023 2:11:22 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+10/2/2023 2:11:42 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 2:12:07 PM DestFolder = \OFFER
+10/2/2023 2:12:10 PM DocName = att6-att2
+Search Syntax: {}
+Search Syntax after replace: {}
+-----------------------------------
+10/2/2023 2:13:57 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 2:14:08 PM DestFolder = \OFFER
+10/2/2023 2:14:11 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+-----------------------------------
+10/2/2023 2:16:57 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 2:16:59 PM DestFolder = \OFFER
+10/2/2023 2:16:59 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+10/2/2023 2:16:59 PM DocID = 6285
+10/2/2023 2:16:59 PM Opening Laserfiche Document Viewer
+10/2/2023 2:16:59 PM Laserfiche Document Viewer opened
+-----------------------------------
+10/2/2023 2:17:08 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 2:17:12 PM DestFolder = \OFFER
+10/2/2023 2:17:12 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+10/2/2023 2:17:12 PM DocID = 6285
+10/2/2023 2:17:13 PM Opening Laserfiche Document Viewer
+10/2/2023 2:17:14 PM Laserfiche Document Viewer opened
+-----------------------------------
+10/2/2023 3:07:06 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/2/2023 3:07:27 PM DestFolder = \OFFER
+10/2/2023 3:07:30 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+10/2/2023 3:07:44 PM DocID = 6285
+10/2/2023 3:07:48 PM Opening Laserfiche Document Viewer
+-----------------------------------
+10/13/2023 10:08:15 AM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+10/13/2023 10:08:15 AM Laserfiche is closed, trying to open it
+10/13/2023 10:09:18 AM DestFolder = \OFFER
+10/13/2023 10:10:20 AM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+10/13/2023 10:11:27 AM DocID = 6285
+10/13/2023 10:11:27 AM Opening Laserfiche Document Viewer
+10/13/2023 10:11:30 AM Laserfiche Document Viewer opened
+-----------------------------------
+2/1/2024 3:46:32 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/1/2024 3:46:32 PM Laserfiche is closed, trying to open it
+2/1/2024 3:46:56 PM DestFolder = \OFFER
+2/1/2024 3:46:56 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+2/1/2024 3:46:56 PM DocID = 6285
+2/1/2024 3:46:56 PM Opening Laserfiche Document Viewer
+2/1/2024 3:46:57 PM Laserfiche Document Viewer opened
+-----------------------------------
+2/7/2024 11:41:48 AM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 11:41:48 AM Laserfiche is closed, trying to open it
+2/7/2024 11:41:51 AM DestFolder = \OFFER
+2/7/2024 11:41:51 AM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+2/7/2024 11:41:52 AM DocID = 6285
+2/7/2024 11:41:52 AM Opening Laserfiche Document Viewer
+2/7/2024 11:41:53 AM Laserfiche Document Viewer opened
+-----------------------------------
+2/7/2024 11:43:58 AM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 11:43:58 AM DestFolder = \OFFER
+2/7/2024 11:43:58 AM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+2/7/2024 11:43:58 AM DocID = 6285
+2/7/2024 11:43:58 AM Opening Laserfiche Document Viewer
+2/7/2024 11:43:58 AM Laserfiche Document Viewer opened
+-----------------------------------
+2/7/2024 11:44:48 AM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 11:44:48 AM DestFolder = \OFFER
+2/7/2024 11:44:48 AM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+2/7/2024 11:44:48 AM DocID = 6285
+2/7/2024 11:44:48 AM Opening Laserfiche Document Viewer
+2/7/2024 11:44:49 AM Laserfiche Document Viewer opened
+-----------------------------------
+2/7/2024 11:56:45 AM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:15:19 PM DestFolder = \OFFER
+2/7/2024 12:15:19 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+Search result: att6-att2
+2/7/2024 12:15:19 PM DocID = 6285
+2/7/2024 12:15:19 PM Opening Laserfiche Document Viewer
+2/7/2024 12:15:20 PM Laserfiche Document Viewer opened
+-----------------------------------
+2/7/2024 12:18:03 PM
+DocumentType   = OFFER
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:18:03 PM DestFolder = \OFFER
+2/7/2024 12:18:03 PM DocName = att6-att2
+Search Syntax: {LF:Name="Attrib06-Attrib02", Type="D"}
+Search Syntax after replace: {LF:Name="att6-att2", Type="D"}
+2/7/2024 12:18:03 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 12:18:07 PM Document created = 10386
+2/7/2024 12:18:07 PM Template name = Offer
+2/7/2024 12:18:10 PM Cannot find Template Offer (DocType = OFFER
+-----------------------------------
+2/7/2024 12:18:46 PM
+DocumentType   = Title
+LFSuffix       = Dead
+DocumentID     = att2
+Branch         = att3
+InsurerCode    = att4
+DocumentNumber = att5
+SubscriberCode = att6
+Sorry, error while reading Title.ini. Please check this file
+-----------------------------------
+2/7/2024 12:18:59 PM
+DocumentType   = Title
+LFSuffix       = Dead
+DocumentID     = att2
+Branch         = att3
+InsurerCode    = att4
+DocumentNumber = att5
+SubscriberCode = att6
+Sorry, error while reading Title.ini. Please check this file
+-----------------------------------
+2/7/2024 12:19:22 PM
+DocumentType   = Title_Dead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+-----------------------------------
+2/7/2024 12:19:51 PM
+DocumentType   = Title_Dead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:19:52 PM DestFolder = \Title_Dead
+2/7/2024 12:19:52 PM DocName = att6-att2
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[Title_Dead]:[]="att3", Type="D"}
+2/7/2024 12:19:52 PMError: Could not find the template schema specified.
+2/7/2024 12:19:52 PM Document created = 10388
+2/7/2024 12:19:52 PM Template name = Offer
+-----------------------------------
+2/7/2024 12:20:09 PM
+DocumentType   = Title_Dead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:20:09 PM DestFolder = \Title_Dead
+2/7/2024 12:20:09 PM DocName = att6-att2
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[Title_Dead]:[]="att3", Type="D"}
+2/7/2024 12:20:09 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 12:20:45 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+2/7/2024 12:20:58 PM
+DocumentType   = Title_Dead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:20:58 PM DestFolder = \Title_Dead
+2/7/2024 12:20:58 PM DocName = att6-att2
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[Title_Dead]:[]="att3", Type="D"}
+2/7/2024 12:20:58 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 12:20:59 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+2/7/2024 12:22:09 PM
+DocumentType   = TitleDead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:22:09 PM DestFolder = \TitleDead
+2/7/2024 12:22:09 PM DocName = att6-att2
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[TitleDead]:[]="att3", Type="D"}
+2/7/2024 12:22:09 PMError: Could not find the template schema specified.
+2/7/2024 12:22:09 PM Document created = 10392
+2/7/2024 12:22:09 PM Template name = TitleDead
+2/7/2024 12:22:11 PM Cannot find Template TitleDead (DocType = TitleDead
+-----------------------------------
+2/7/2024 12:22:30 PM
+DocumentType   = TitleDead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:22:30 PM DestFolder = \TitleDead
+2/7/2024 12:22:30 PM DocName = att6-att2
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[TitleDead]:[]="att3", Type="D"}
+2/7/2024 12:22:30 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 12:22:38 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+2/7/2024 12:25:25 PM
+DocumentType   = TitleDead
+LFSuffix       = att2
+DocumentID     = att3
+Branch         = att4
+InsurerCode    = att5
+DocumentNumber = att6
+SubscriberCode = att7
+2/7/2024 12:25:25 PM DestFolder = \TitleDead
+2/7/2024 12:25:25 PM DocName = att6-att2
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[TitleDead]:[]="att3", Type="D"}
+2/7/2024 12:25:25 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 12:25:26 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+2/7/2024 12:25:32 PM
+-----------------------------------
+2/7/2024 12:26:49 PM
+-----------------------------------
+2/7/2024 12:27:24 PM
+2/7/2024 12:27:48 PM Error reading parameters
+DocumentType   = TitleDead
+LFSuffix       = ViewAll
+DocumentID     = 2;3;4;5;6
+Branch         = 
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+2/7/2024 12:27:59 PM
+2/7/2024 12:27:59 PM Error reading parameters
+DocumentType   = TitleDead
+LFSuffix       = ViewAll
+DocumentID     = 2;3;4;5;6
+Branch         = 
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+2/7/2024 12:28:32 PM
+DocumentType   = TitleDead
+LFSuffix       = ViewAll
+DocumentID     = 2;3;4;5;6
+Branch         = attr4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 12:28:32 PM DestFolder = \TitleDead
+2/7/2024 12:28:32 PM DocName = attr6-ViewAll
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[TitleDead]:[]="2;3;4;5;6", Type="D"}
+2/7/2024 12:28:33 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 12:28:33 PM Document created = 10395
+2/7/2024 12:28:33 PM Template name = TitleDead
+2/7/2024 12:28:33 PM Preparing Fields Values
+2/7/2024 12:28:33 PM Error while setting Fields Values = Could not find the field specified, or the field is not part of the specified template.
+2/7/2024 12:28:35 PM Error indexing Document = One or more required fields were omitted or had a blank value.
+-----------------------------------
+2/7/2024 12:29:06 PM
+DocumentType   = TitleDead
+LFSuffix       = ViewAll
+DocumentID     = 2;3;4;5;6
+Branch         = attr4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 12:29:06 PM DestFolder = \TitleDead
+2/7/2024 12:29:06 PM DocName = attr6-ViewAll
+Search Syntax: {[Attrib01]:[]="Attrib03", Type="D"}
+Search Syntax after replace: {[TitleDead]:[]="2;3;4;5;6", Type="D"}
+-----------------------------------
+2/7/2024 1:42:38 PM
+DocumentType   = TitleDead
+LFSuffix       = ViewAll
+DocumentID     = 2;3;4;5;6
+Branch         = attr4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:42:38 PM DestFolder = \TitleDead
+2/7/2024 1:42:38 PM DocName = attr6-ViewAll
+Search Syntax: {[Attrib01]:[ID]="Attrib03", Type="D"}
+Search Syntax after replace: {[TitleDead]:[ID]="2;3;4;5;6", Type="D"}
+2/7/2024 1:42:38 PMError: The object is not identified, and cannot be locked or read from.
+2/7/2024 1:42:44 PM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+2/7/2024 1:43:14 PM
+-----------------------------------
+2/7/2024 1:45:06 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = attr4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+Sorry, error while reading Title Dead.ini. Please check this file
+-----------------------------------
+2/7/2024 1:45:40 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = attr4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:48:02 PM DestFolder = \Title Dead
+2/7/2024 1:48:18 PM DocName = attr4
+-----------------------------------
+2/7/2024 1:49:55 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:49:59 PM DestFolder = \Title Dead
+2/7/2024 1:50:01 PM DocName = 4
+-----------------------------------
+2/7/2024 1:50:29 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:50:29 PM DestFolder = \Title Dead
+2/7/2024 1:50:39 PM DocName = 4
+-----------------------------------
+2/7/2024 1:50:59 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:50:59 PM DestFolder = \Title Dead
+2/7/2024 1:51:02 PM DocName = 4
+-----------------------------------
+2/7/2024 1:51:27 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:51:27 PM DestFolder = \Title Dead
+2/7/2024 1:51:27 PM DocName = 4
+-----------------------------------
+2/7/2024 1:52:00 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:52:00 PM DestFolder = \Title Dead
+2/7/2024 1:52:00 PM DocName = 4
+-----------------------------------
+2/7/2024 1:57:35 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 1:57:35 PM DestFolder = \Title Dead
+2/7/2024 1:57:35 PM DocName = 4
+-----------------------------------
+2/7/2024 2:03:03 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:03:03 PM DestFolder = \Title Dead
+2/7/2024 2:03:03 PM DocName = 4
+-----------------------------------
+2/7/2024 2:03:25 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:03:25 PM DestFolder = \Title Dead
+2/7/2024 2:03:25 PM DocName = 4
+-----------------------------------
+2/7/2024 2:03:45 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:03:45 PM Laserfiche is closed, trying to open it
+2/7/2024 2:03:48 PM DestFolder = \Title Dead
+2/7/2024 2:03:48 PM DocName = 4
+-----------------------------------
+2/7/2024 2:05:04 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:05:04 PM Laserfiche is closed, trying to open it
+2/7/2024 2:05:06 PM DestFolder = \Title Dead
+2/7/2024 2:05:06 PM DocName = 4
+-----------------------------------
+2/7/2024 2:06:21 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:06:21 PM DestFolder = \Title Dead
+2/7/2024 2:06:21 PM DocName = 4
+-----------------------------------
+2/7/2024 2:07:45 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+2/7/2024 2:08:21 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:08:26 PM DestFolder = \Title Dead
+2/7/2024 2:08:26 PM DocName = 4
+-----------------------------------
+2/7/2024 2:08:39 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:08:40 PM DestFolder = \Title Dead
+2/7/2024 2:08:40 PM DocName = 4
+-----------------------------------
+2/7/2024 2:08:48 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:08:50 PM Laserfiche is closed, trying to open it
+2/7/2024 2:08:52 PM DestFolder = \Title Dead
+2/7/2024 2:08:52 PM DocName = 4
+-----------------------------------
+2/7/2024 2:08:59 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+2/7/2024 2:09:29 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:09:30 PM Laserfiche is closed, trying to open it
+2/7/2024 2:09:33 PM DestFolder = \Title Dead
+2/7/2024 2:09:33 PM DocName = 4
+-----------------------------------
+2/7/2024 2:09:41 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+2/7/2024 2:10:35 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:10:42 PM Laserfiche is closed, trying to open it
+2/7/2024 2:10:44 PM DestFolder = \Title Dead
+2/7/2024 2:10:44 PM DocName = 4
+-----------------------------------
+2/7/2024 2:12:34 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:12:47 PM Laserfiche is closed, trying to open it
+2/7/2024 2:13:59 PM DestFolder = \Title Dead
+2/7/2024 2:13:59 PM DocName = 4
+-----------------------------------
+2/7/2024 2:18:41 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:18:45 PM DestFolder = \Title Dead
+2/7/2024 2:18:45 PM DocName = 4
+-----------------------------------
+2/7/2024 2:22:22 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:22:24 PM DestFolder = \Title Dead
+2/7/2024 2:22:24 PM DocName = 4
+-----------------------------------
+2/7/2024 2:22:32 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:22:57 PM DestFolder = \Title Dead
+2/7/2024 2:22:58 PM DocName = 4
+-----------------------------------
+2/7/2024 2:31:00 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:31:00 PM DestFolder = \Title Dead
+2/7/2024 2:31:00 PM DocName = 4
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+2/7/2024 2:31:15 PM
+DocumentType   = Title Dead
+LFSuffix       = View All
+DocumentID     = 2;3;4;5;6
+Branch         = 4
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:31:15 PM DestFolder = \Title Dead
+2/7/2024 2:31:15 PM DocName = 4
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+2/7/2024 2:32:04 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:32:04 PM DestFolder = \Title Dead
+2/7/2024 2:32:04 PM DocName = 6
+-----------------------------------
+2/7/2024 2:33:49 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:33:50 PM DestFolder = \Title Dead
+2/7/2024 2:33:50 PM DocName = 6
+2/7/2024 2:33:50 PM Document created = 10398
+2/7/2024 2:33:50 PM Template name = TitleDead
+2/7/2024 2:33:50 PM Preparing Fields Values
+2/7/2024 2:33:50 PM Opening Scanning Interface
+-----------------------------------
+2/7/2024 2:36:15 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:36:15 PM DestFolder = \Title Dead
+2/7/2024 2:36:15 PM DocName = 6
+-----------------------------------
+2/7/2024 2:37:04 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:37:04 PM DestFolder = \Title Dead
+2/7/2024 2:37:04 PM DocName = 6
+-----------------------------------
+2/7/2024 2:38:54 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+2/7/2024 2:38:54 PM DestFolder = \Title Dead
+2/7/2024 2:38:54 PM DocName = 6
+-----------------------------------
+3/18/2024 4:39:54 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/18/2024 4:39:55 PM DestFolder = \Title Dead
+3/18/2024 4:39:55 PM DocName = 6
+-----------------------------------
+3/18/2024 4:40:27 PM
+3/18/2024 4:40:27 PM Error reading parameters
+DocumentType   = 
+LFSuffix       = 
+DocumentID     = 
+Branch         = 
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+3/18/2024 4:42:24 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/18/2024 4:42:24 PM DestFolder = \Title Dead
+3/18/2024 4:42:24 PM DocName = 6
+-----------------------------------
+3/18/2024 5:28:05 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/18/2024 5:28:05 PM DestFolder = \Title Dead
+3/18/2024 5:28:05 PM DocName = 6
+-----------------------------------
+3/18/2024 5:30:29 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/18/2024 5:30:29 PM DestFolder = \Title Dead
+3/18/2024 5:30:29 PM DocName = 6
+-----------------------------------
+3/19/2024 8:33:09 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/19/2024 8:33:09 AM DestFolder = \Title Dead
+3/19/2024 8:33:09 AM DocName = 6
+-----------------------------------
+3/19/2024 8:43:11 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/19/2024 8:43:11 AM DestFolder = \Title Dead
+3/19/2024 8:43:11 AM DocName = 6
+-----------------------------------
+3/19/2024 9:06:19 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/19/2024 9:06:19 AM DestFolder = \Title Dead
+3/19/2024 9:06:19 AM DocName = 6
+3/19/2024 9:06:20 AM Document created = 13361
+3/19/2024 9:06:20 AM Template name = TitleDead
+3/19/2024 9:06:20 AM Preparing Fields Values
+3/19/2024 9:06:27 AM Error indexing Document = One or more required fields were omitted or had a blank value.
+-----------------------------------
+3/19/2024 9:06:47 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/19/2024 9:06:47 AM DestFolder = \Title Dead
+3/19/2024 9:06:47 AM DocName = 6
+3/19/2024 9:06:55 AM Cannot create new document = Could not create object (duplicate exists).
+-----------------------------------
+3/19/2024 9:07:59 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/19/2024 9:08:26 AM DestFolder = \Title Dead
+3/19/2024 9:08:51 AM DocName = 6
+-----------------------------------
+3/19/2024 9:12:26 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+3/19/2024 9:12:26 AM DestFolder = \Title Dead
+3/19/2024 9:12:26 AM DocName = 6
+-----------------------------------
+4/4/2024 5:18:18 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/4/2024 5:18:18 PM DestFolder = \Title Dead
+4/4/2024 5:18:18 PM DocName = 6
+-----------------------------------
+4/5/2024 9:34:58 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:34:58 AM DestFolder = \Title Dead
+4/5/2024 9:34:58 AM DocName = 6
+-----------------------------------
+4/5/2024 9:35:51 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:35:51 AM DestFolder = \Title Dead
+4/5/2024 9:35:51 AM DocName = 6
+-----------------------------------
+4/5/2024 9:46:05 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:46:05 AM DestFolder = \Title Dead
+4/5/2024 9:46:05 AM DocName = 6
+-----------------------------------
+4/5/2024 9:46:38 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:46:38 AM DestFolder = \Title Dead
+4/5/2024 9:46:38 AM DocName = 6
+-----------------------------------
+4/5/2024 9:47:34 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:47:34 AM DestFolder = \Title Dead
+4/5/2024 9:47:34 AM DocName = 6
+-----------------------------------
+4/5/2024 9:48:30 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:48:30 AM DestFolder = \Title Dead
+4/5/2024 9:48:30 AM DocName = 6
+-----------------------------------
+4/5/2024 9:51:41 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 9:51:41 AM DestFolder = \Title Dead
+4/5/2024 9:51:41 AM DocName = 6
+-----------------------------------
+4/5/2024 11:58:00 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/5/2024 11:58:00 AM DestFolder = \Title Dead
+4/5/2024 11:58:00 AM DocName = 6
+-----------------------------------
+4/15/2024 10:57:32 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 10:57:32 AM DestFolder = \Title Dead
+4/15/2024 10:57:32 AM DocName = 6
+-----------------------------------
+4/15/2024 11:08:36 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:08:36 AM DestFolder = \Title Dead
+4/15/2024 11:08:36 AM DocName = 6
+-----------------------------------
+4/15/2024 11:10:27 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:10:27 AM DestFolder = \Title Dead
+4/15/2024 11:10:27 AM DocName = 6
+-----------------------------------
+4/15/2024 11:22:33 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:22:33 AM DestFolder = \Title Dead
+4/15/2024 11:22:33 AM DocName = 6
+-----------------------------------
+4/15/2024 11:27:01 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:27:01 AM DestFolder = \Title Dead
+4/15/2024 11:27:01 AM DocName = 6
+-----------------------------------
+4/15/2024 11:34:12 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:34:12 AM DestFolder = \Title Dead
+4/15/2024 11:34:12 AM DocName = 6
+-----------------------------------
+4/15/2024 11:36:25 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:36:25 AM DestFolder = \Title Dead
+4/15/2024 11:36:25 AM DocName = 6
+-----------------------------------
+4/15/2024 11:41:52 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:41:52 AM DestFolder = \Title Dead
+4/15/2024 11:41:52 AM DocName = 6
+-----------------------------------
+4/15/2024 11:44:48 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:44:48 AM DestFolder = \Title Dead
+4/15/2024 11:44:48 AM DocName = 6
+-----------------------------------
+4/15/2024 11:52:08 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:52:08 AM DestFolder = \Title Dead
+4/15/2024 11:52:08 AM DocName = 6
+-----------------------------------
+4/15/2024 11:53:35 AM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 11:53:35 AM DestFolder = \Title Dead
+4/15/2024 11:53:35 AM DocName = 6
+-----------------------------------
+4/15/2024 12:09:12 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:09:12 PM DestFolder = \Title Dead
+4/15/2024 12:09:12 PM DocName = 6
+-----------------------------------
+4/15/2024 12:10:23 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:10:23 PM DestFolder = \Title Dead
+4/15/2024 12:10:23 PM DocName = 6
+-----------------------------------
+4/15/2024 12:37:39 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:37:39 PM DestFolder = \Title Dead
+4/15/2024 12:37:39 PM DocName = 6
+-----------------------------------
+4/15/2024 12:38:22 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:38:22 PM DestFolder = \Title Dead
+4/15/2024 12:38:22 PM DocName = 6
+-----------------------------------
+4/15/2024 12:39:26 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:39:26 PM DestFolder = \Title Dead
+4/15/2024 12:39:26 PM DocName = 6
+-----------------------------------
+4/15/2024 12:40:25 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:40:25 PM DestFolder = \Title Dead
+4/15/2024 12:40:25 PM DocName = 6
+-----------------------------------
+4/15/2024 12:42:31 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 12:42:31 PM DestFolder = \Title Dead
+4/15/2024 12:42:31 PM DocName = 6
+-----------------------------------
+4/15/2024 1:26:20 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:26:20 PM DestFolder = \Title Dead
+4/15/2024 1:26:20 PM DocName = 6
+-----------------------------------
+4/15/2024 1:27:13 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:27:13 PM DestFolder = \Title Dead
+4/15/2024 1:27:13 PM DocName = 6
+-----------------------------------
+4/15/2024 1:29:55 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:29:55 PM DestFolder = \Title Dead
+4/15/2024 1:29:55 PM DocName = 6
+-----------------------------------
+4/15/2024 1:33:15 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:33:15 PM DestFolder = \Title Dead
+4/15/2024 1:33:15 PM DocName = 6
+-----------------------------------
+4/15/2024 1:33:54 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:33:54 PM DestFolder = \Title Dead
+4/15/2024 1:33:54 PM DocName = 6
+-----------------------------------
+4/15/2024 1:37:36 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:37:36 PM DestFolder = \Title Dead
+4/15/2024 1:37:36 PM DocName = 6
+-----------------------------------
+4/15/2024 1:56:55 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:56:55 PM DestFolder = \Title Dead
+4/15/2024 1:56:55 PM DocName = 6
+4/15/2024 1:56:57 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 1:57:20 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:57:20 PM DestFolder = \Title Dead
+4/15/2024 1:57:20 PM DocName = 6
+4/15/2024 1:57:21 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 1:57:39 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:57:39 PM DestFolder = \Title Dead
+4/15/2024 1:57:39 PM DocName = 6
+4/15/2024 1:57:40 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 1:57:54 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 1:57:54 PM DestFolder = \Title Dead
+4/15/2024 1:57:54 PM DocName = 6
+-----------------------------------
+4/15/2024 2:12:39 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:12:40 PM DestFolder = \Title Dead
+4/15/2024 2:12:40 PM DocName = 6
+-----------------------------------
+4/15/2024 2:17:30 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:17:30 PM DestFolder = \Title Dead
+4/15/2024 2:17:30 PM DocName = 6
+-----------------------------------
+4/15/2024 2:18:20 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:18:20 PM DestFolder = \Title Dead
+4/15/2024 2:18:20 PM DocName = 6
+-----------------------------------
+4/15/2024 2:19:01 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:19:01 PM DestFolder = \Title Dead
+4/15/2024 2:19:01 PM DocName = 6
+-----------------------------------
+4/15/2024 2:30:58 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:30:58 PM DestFolder = \Title Dead
+4/15/2024 2:30:58 PM DocName = 6
+-----------------------------------
+4/15/2024 2:31:17 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:31:17 PM DestFolder = \Title Dead
+4/15/2024 2:31:17 PM DocName = 6
+-----------------------------------
+4/15/2024 2:31:35 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:31:35 PM DestFolder = \Title Dead
+4/15/2024 2:31:35 PM DocName = 6
+-----------------------------------
+4/15/2024 2:32:13 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:32:13 PM DestFolder = \Title Dead
+4/15/2024 2:32:13 PM DocName = 6
+-----------------------------------
+4/15/2024 2:32:51 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:32:51 PM DestFolder = \Title Dead
+4/15/2024 2:32:51 PM DocName = 6
+4/15/2024 2:33:11 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 2:38:41 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:38:41 PM DestFolder = \Title Dead
+4/15/2024 2:38:41 PM DocName = 6
+4/15/2024 2:38:53 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 2:39:01 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:41:29 PM DestFolder = \Title Dead
+4/15/2024 2:41:32 PM DocName = 6
+4/15/2024 2:41:37 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 2:44:29 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:44:29 PM DestFolder = \Title Dead
+4/15/2024 2:44:29 PM DocName = 6
+-----------------------------------
+4/15/2024 2:44:52 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:44:52 PM DestFolder = \Title Dead
+4/15/2024 2:44:52 PM DocName = 6
+-----------------------------------
+4/15/2024 2:45:21 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:45:21 PM DestFolder = \Title Dead
+4/15/2024 2:45:21 PM DocName = 6
+-----------------------------------
+4/15/2024 2:57:03 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:57:04 PM DestFolder = \Title Dead
+4/15/2024 2:57:04 PM DocName = 6
+-----------------------------------
+4/15/2024 2:58:46 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:58:46 PM DestFolder = \Title Dead
+4/15/2024 2:58:46 PM DocName = 6
+-----------------------------------
+4/15/2024 2:59:47 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 2:59:47 PM DestFolder = \Title Dead
+4/15/2024 2:59:47 PM DocName = 6
+-----------------------------------
+4/15/2024 3:22:43 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:22:43 PM DestFolder = \Title Dead
+4/15/2024 3:22:43 PM DocName = 6
+4/15/2024 3:22:43 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 3:25:40 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:25:40 PM DestFolder = \Title Dead
+4/15/2024 3:25:40 PM DocName = 6
+-----------------------------------
+4/15/2024 3:25:55 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:25:55 PM DestFolder = \Title Dead
+4/15/2024 3:25:55 PM DocName = 6
+4/15/2024 3:25:55 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 3:36:05 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:36:05 PM DestFolder = \Title Dead
+4/15/2024 3:36:05 PM DocName = 6
+4/15/2024 3:36:14 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/15/2024 3:38:17 PM
+DocumentType   = Title Dead
+LFSuffix       = View Latest
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:38:17 PM DestFolder = \Title Dead
+4/15/2024 3:38:17 PM DocName = 6
+-----------------------------------
+4/15/2024 3:39:02 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:39:02 PM DestFolder = \Title Dead
+4/15/2024 3:39:02 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 3:40:58 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:40:58 PM DestFolder = \Title Dead
+4/15/2024 3:40:58 PM DocName = 6
+-----------------------------------
+4/15/2024 3:41:24 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 3:41:24 PM DestFolder = \Title Dead
+4/15/2024 3:41:24 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 4:46:54 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 4:46:54 PM DestFolder = \Title Dead
+4/15/2024 4:46:54 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 4:47:36 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 4:47:36 PM DestFolder = \Title Dead
+4/15/2024 4:47:36 PM DocName = 6
+-----------------------------------
+4/15/2024 4:54:45 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 4:54:45 PM DestFolder = \Title Dead
+4/15/2024 4:54:45 PM DocName = 6
+-----------------------------------
+4/15/2024 4:55:58 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 4:55:58 PM DestFolder = \Title Dead
+4/15/2024 4:55:58 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 4:59:47 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 4:59:47 PM DestFolder = \Title Dead
+4/15/2024 4:59:47 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 5:00:32 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 5:00:32 PM DestFolder = \Title Dead
+4/15/2024 5:00:32 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 5:01:11 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 5:01:11 PM DestFolder = \Title Dead
+4/15/2024 5:01:11 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 5:02:56 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 5:02:56 PM DestFolder = \Title Dead
+4/15/2024 5:02:56 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 5:03:29 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 5:03:29 PM DestFolder = \Title Dead
+4/15/2024 5:03:29 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 5:05:32 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 5:05:32 PM DestFolder = \Title Dead
+4/15/2024 5:05:32 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 5:20:17 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 5:20:17 PM DestFolder = \Title Dead
+4/15/2024 5:20:17 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 8:31:37 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 8:31:37 PM DestFolder = \Title Dead
+4/15/2024 8:31:37 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 8:43:07 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 8:43:07 PM DestFolder = \Title Dead
+4/15/2024 8:43:07 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 8:47:34 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 8:47:34 PM DestFolder = \Title Dead
+4/15/2024 8:47:34 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 9:13:13 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 9:13:13 PM DestFolder = \Title Dead
+4/15/2024 9:13:13 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 9:14:25 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 9:14:25 PM DestFolder = \Title Dead
+4/15/2024 9:14:25 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 9:20:52 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 9:20:52 PM DestFolder = \Title Dead
+4/15/2024 9:20:52 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 9:37:57 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 9:37:57 PM DestFolder = \Title Dead
+4/15/2024 9:37:57 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/15/2024 9:38:44 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/15/2024 9:38:44 PM DestFolder = \Title Dead
+4/15/2024 9:38:44 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:05:18 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:05:18 AM DestFolder = \Title Dead
+4/16/2024 9:05:18 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:27:34 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:27:34 AM DestFolder = \Title Dead
+4/16/2024 9:27:34 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:31:37 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:31:37 AM DestFolder = \Title Dead
+4/16/2024 9:31:37 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:32:21 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:32:21 AM DestFolder = \Title Dead
+4/16/2024 9:32:21 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:33:05 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:33:05 AM DestFolder = \Title Dead
+4/16/2024 9:33:05 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:34:48 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:34:48 AM DestFolder = \Title Dead
+4/16/2024 9:34:48 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:48:28 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:48:28 AM DestFolder = \Title Dead
+4/16/2024 9:48:28 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:48:44 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:48:44 AM DestFolder = \Title Dead
+4/16/2024 9:48:44 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:49:28 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:49:28 AM DestFolder = \Title Dead
+4/16/2024 9:49:28 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:49:38 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:49:38 AM DestFolder = \Title Dead
+4/16/2024 9:49:38 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/16/2024 9:52:43 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/16/2024 9:52:43 AM DestFolder = \Title Dead
+4/16/2024 9:52:43 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:09:45 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:09:45 AM DestFolder = \Title Dead
+4/17/2024 9:09:45 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:22:10 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:22:10 AM DestFolder = \Title Dead
+4/17/2024 9:22:10 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:33:14 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:33:14 AM DestFolder = \Title Dead
+4/17/2024 9:33:14 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:33:31 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:33:31 AM DestFolder = \Title Dead
+4/17/2024 9:33:31 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:48:09 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:48:09 AM DestFolder = \Title Dead
+4/17/2024 9:48:09 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:50:12 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:50:12 AM DestFolder = \Title Dead
+4/17/2024 9:50:12 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 9:51:04 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 9:51:04 AM DestFolder = \Title Dead
+4/17/2024 9:51:04 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 10:53:08 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 10:53:46 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 10:54:18 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 11:11:42 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 11:11:42 AM DestFolder = \Title Dead
+4/17/2024 11:11:42 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 11:12:36 AM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 11:12:36 AM DestFolder = \Title Dead
+4/17/2024 11:12:36 AM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 2:21:04 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:21:04 PM DestFolder = \Title Dead
+4/17/2024 2:21:04 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 2:22:59 PM
+DocumentType   = Claim
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 2:24:08 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:24:08 PM DestFolder = \Claims
+4/17/2024 2:24:08 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:24:12 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:24:15 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:24:58 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:25:12 PM DestFolder = \Claims
+4/17/2024 2:25:26 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:26:07 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:26:12 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:26:43 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:26:43 PM DestFolder = \Claims
+4/17/2024 2:26:43 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:28:17 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:33:28 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:33:28 PM DestFolder = \Claims
+4/17/2024 2:33:28 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:33:52 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:34:25 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:34:25 PM DestFolder = \Claims
+4/17/2024 2:34:25 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:34:31 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:34:42 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/17/2024 2:35:29 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:35:29 PM DestFolder = \Claims
+4/17/2024 2:35:29 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:35:33 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:39:30 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:39:30 PM DestFolder = \Claims
+4/17/2024 2:39:30 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:39:36 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:44:02 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:44:02 PM DestFolder = \Claims
+4/17/2024 2:44:02 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:44:11 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:44:22 PM Could not connect to Laserfiche Repository Public member 'UserName' on type 'Object' not found.
+-----------------------------------
+4/17/2024 2:44:45 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:44:45 PM DestFolder = \Claims
+4/17/2024 2:44:45 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:44:49 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:45:39 PM Could not connect to Laserfiche Repository Public member 'UserName' on type 'Object' not found.
+-----------------------------------
+4/17/2024 2:45:57 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:45:57 PM DestFolder = \Claims
+4/17/2024 2:45:57 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:46:02 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:48:33 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:48:33 PM DestFolder = \Claims
+4/17/2024 2:48:33 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:48:40 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:49:56 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:49:56 PM DestFolder = \Claims
+4/17/2024 2:49:56 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/17/2024 2:52:58 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:52:58 PM DestFolder = \Claims
+4/17/2024 2:52:58 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:53:01 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 2:53:34 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:53:34 PM DestFolder = \Claims
+4/17/2024 2:53:34 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:53:35 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:53:37 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:53:47 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:53:47 PM DestFolder = \Claims
+4/17/2024 2:53:47 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:53:48 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:53:50 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:54:14 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:54:14 PM DestFolder = \Claims
+4/17/2024 2:54:14 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:54:16 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:55:09 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:55:21 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:55:21 PM DestFolder = \Claims
+4/17/2024 2:55:21 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:55:23 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:55:24 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:56:34 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:56:34 PM DestFolder = \Claims
+4/17/2024 2:56:34 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:56:36 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:56:37 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:56:56 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:56:56 PM DestFolder = \Claims
+4/17/2024 2:56:56 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:56:58 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:56:59 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:57:27 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:57:27 PM DestFolder = \Claims
+4/17/2024 2:57:27 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:57:29 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:57:31 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:58:15 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:58:15 PM DestFolder = \Claims
+4/17/2024 2:58:15 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:58:17 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:58:19 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:58:57 PM
+DocumentType   = Claim
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+Sorry, error while reading Claim.ini. Please check this file
+-----------------------------------
+4/17/2024 2:59:28 PM
+DocumentType   = Claim
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:59:28 PM DestFolder = \Claim
+4/17/2024 2:59:28 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:59:30 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:59:32 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 2:59:55 PM
+DocumentType   = Claim
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 2:59:55 PM DestFolder = \Claim
+4/17/2024 2:59:55 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 2:59:57 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 2:59:59 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:00:37 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:00:37 PM DestFolder = \Title Dead
+4/17/2024 3:00:37 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:01:23 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:01:23 PM DestFolder = \Claims
+4/17/2024 3:01:23 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:01:23 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 3:01:24 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:01:47 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:01:47 PM DestFolder = \Claims
+4/17/2024 3:01:47 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/17/2024 3:03:40 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:03:40 PM DestFolder = \Title Dead
+4/17/2024 3:03:40 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:04:01 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:04:01 PM DestFolder = \Title Dead
+4/17/2024 3:04:01 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:05:01 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:05:01 PM DestFolder = \Claims
+4/17/2024 3:05:01 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:05:24 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:06:35 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:06:35 PM DestFolder = \Title Dead
+4/17/2024 3:06:35 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:07:29 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:07:29 PM DestFolder = \Title Dead
+4/17/2024 3:07:29 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:08:46 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:08:46 PM DestFolder = \Title Dead
+4/17/2024 3:08:46 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:09:40 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:09:40 PM DestFolder = \Title Dead
+4/17/2024 3:09:40 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:10:12 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:10:12 PM DestFolder = \Title Dead
+4/17/2024 3:10:12 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:10:27 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:10:27 PM DestFolder = \Title Dead
+4/17/2024 3:10:27 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:10:43 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:10:43 PM DestFolder = \Title Dead
+4/17/2024 3:10:43 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:11:18 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:11:18 PM DestFolder = \Title Dead
+4/17/2024 3:11:18 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:11:54 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:11:54 PM DestFolder = \Title Dead
+4/17/2024 3:11:54 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:12:31 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:12:31 PM DestFolder = \Title Dead
+4/17/2024 3:12:31 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:13:53 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:13:53 PM DestFolder = \Title Dead
+4/17/2024 3:13:53 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:14:13 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:14:13 PM DestFolder = \Title Dead
+4/17/2024 3:14:13 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:15:31 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:15:31 PM DestFolder = \Title Dead
+4/17/2024 3:15:31 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:15:55 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:15:55 PM DestFolder = \Claims
+4/17/2024 3:15:55 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/17/2024 3:16:01 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:16:01 PM DestFolder = \Claims
+4/17/2024 3:16:01 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:16:03 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 3:16:04 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:17:18 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:17:18 PM DestFolder = \Claims
+4/17/2024 3:17:18 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:17:20 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 3:17:21 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:17:42 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:17:42 PM DestFolder = \Claims
+4/17/2024 3:17:42 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:17:44 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 3:17:47 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:18:14 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:18:14 PM DestFolder = \Title Dead
+4/17/2024 3:18:14 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:18:43 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:18:43 PM DestFolder = \Title Dead
+4/17/2024 3:18:43 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:24:23 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:24:23 PM DestFolder = \Title Dead
+4/17/2024 3:24:23 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:24:33 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:24:33 PM DestFolder = \Title Dead
+4/17/2024 3:24:33 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:25:02 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:25:02 PM DestFolder = \Title Dead
+4/17/2024 3:25:02 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:25:31 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:25:31 PM DestFolder = \Title Dead
+4/17/2024 3:25:31 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:29:25 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:29:25 PM DestFolder = \Title Dead
+4/17/2024 3:29:25 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 3:29:58 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:29:58 PM DestFolder = \Claims
+4/17/2024 3:29:58 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:30:04 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 3:30:05 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:31:52 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:31:52 PM DestFolder = \Claims
+4/17/2024 3:31:52 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:31:56 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:33:52 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:33:52 PM DestFolder = \Claims
+4/17/2024 3:33:52 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:33:56 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:38:25 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:38:25 PM DestFolder = \Claims
+4/17/2024 3:38:25 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:38:30 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:39:05 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:39:05 PM DestFolder = \Claims
+4/17/2024 3:39:05 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:39:09 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:39:56 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:39:56 PM DestFolder = \Claims
+4/17/2024 3:39:56 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:44:19 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:45:19 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:45:19 PM DestFolder = \Claims
+4/17/2024 3:45:19 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:45:21 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 3:45:24 PM Cannot find volume Default
+-----------------------------------
+4/17/2024 3:45:54 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:45:54 PM DestFolder = \Claims
+4/17/2024 3:45:54 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:45:56 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:49:49 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:49:49 PM DestFolder = \Claims
+4/17/2024 3:49:49 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:49:51 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:50:39 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 3:50:39 PM DestFolder = \Claims
+4/17/2024 3:50:39 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 3:51:03 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/17/2024 3:54:17 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:00:20 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:00:37 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 4:00:38 PM DestFolder = \Title Dead
+4/17/2024 4:00:38 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 4:04:04 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:09:23 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:22:56 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:26:25 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 4:26:25 PM DestFolder = \Title Dead
+4/17/2024 4:26:25 PM DocName = 6
+-----------------------------------
+4/17/2024 4:29:38 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:30:26 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:44:21 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 4:44:49 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:04:57 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:11:17 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:11:46 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:12:05 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:12:15 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:12:50 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:16:57 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:21:12 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/17/2024 5:22:12 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:22:13 PM DestFolder = \Title Dead
+4/17/2024 5:22:13 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:23:21 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:23:22 PM DestFolder = \Title Dead
+4/17/2024 5:23:22 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:25:51 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:25:52 PM DestFolder = \Title Dead
+4/17/2024 5:25:52 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:27:09 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:27:10 PM DestFolder = \Title Dead
+4/17/2024 5:27:10 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:29:41 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:29:41 PM DestFolder = \Title Dead
+4/17/2024 5:29:41 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:31:04 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:31:04 PM DestFolder = \Title Dead
+4/17/2024 5:31:04 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:31:31 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:31:32 PM DestFolder = \Title Dead
+4/17/2024 5:31:32 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:33:38 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:33:39 PM DestFolder = \Title Dead
+4/17/2024 5:33:39 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:33:53 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:33:54 PM DestFolder = \Title Dead
+4/17/2024 5:33:54 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:34:23 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:34:24 PM DestFolder = \Title Dead
+4/17/2024 5:34:24 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:34:36 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:34:37 PM DestFolder = \Title Dead
+4/17/2024 5:34:37 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:36:37 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:36:38 PM DestFolder = \Title Dead
+4/17/2024 5:36:38 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:36:53 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:36:54 PM DestFolder = \Title Dead
+4/17/2024 5:36:54 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:38:47 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:38:48 PM DestFolder = \Title Dead
+4/17/2024 5:38:48 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:39:00 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:39:01 PM DestFolder = \Title Dead
+4/17/2024 5:39:01 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:43:20 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:43:21 PM DestFolder = \Title Dead
+4/17/2024 5:43:21 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:43:43 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:43:44 PM DestFolder = \Title Dead
+4/17/2024 5:43:44 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:43:56 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:43:56 PM DestFolder = \Title Dead
+4/17/2024 5:43:56 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:44:06 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:44:07 PM DestFolder = \Title Dead
+4/17/2024 5:44:07 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/17/2024 5:44:55 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/17/2024 5:44:55 PM DestFolder = \Claims
+4/17/2024 5:44:55 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/17/2024 5:44:56 PMError: The object is not identified, and cannot be locked or read from.
+4/17/2024 5:44:57 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 9:23:38 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:29:03 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:31:31 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:33:02 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:33:43 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:33:59 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:34:51 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 9:35:25 AM DestFolder = \Claims
+4/18/2024 9:35:25 AM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 9:35:25 AMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 9:35:27 AM Cannot find volume Default
+-----------------------------------
+4/18/2024 9:37:13 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:38:40 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:48:44 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:49:39 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 9:50:35 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 10:32:09 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 10:33:47 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 10:34:26 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 10:35:25 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:29:46 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 11:29:49 AM DestFolder = \Claims
+4/18/2024 11:29:49 AM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 11:29:49 AMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 11:29:51 AM Cannot find volume Default
+-----------------------------------
+4/18/2024 11:30:27 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 11:30:29 AM DestFolder = \Claims
+4/18/2024 11:30:29 AM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 11:30:30 AMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 11:30:32 AM Cannot find volume Default
+-----------------------------------
+4/18/2024 11:31:01 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:33:45 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:36:54 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:37:29 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:38:12 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:40:22 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:41:12 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:47:42 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 11:50:09 AM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+-----------------------------------
+4/18/2024 12:02:49 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:02:50 PM DestFolder = \Claims
+4/18/2024 12:02:50 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 12:02:50 PMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 12:02:52 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 12:03:19 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:03:22 PM DestFolder = \Title Dead
+4/18/2024 12:03:22 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 12:03:30 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:03:31 PM DestFolder = \Title Dead
+4/18/2024 12:03:31 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 12:03:40 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:03:40 PM DestFolder = \Title Dead
+4/18/2024 12:03:40 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 12:05:18 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:05:18 PM DestFolder = \Title Dead
+4/18/2024 12:05:18 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 12:06:33 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:06:33 PM DestFolder = \Title Dead
+4/18/2024 12:06:33 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 12:07:37 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:07:37 PM DestFolder = \Title Dead
+4/18/2024 12:07:37 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 12:08:55 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 12:08:55 PM DestFolder = \Title Dead
+4/18/2024 12:08:55 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 3:03:45 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:03:45 PM DestFolder = \Claims
+4/18/2024 3:03:45 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 3:03:48 PMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 3:12:32 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 3:12:54 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:12:54 PM DestFolder = \Claims
+4/18/2024 3:12:54 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 3:12:56 PMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 3:12:58 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 3:13:10 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:13:10 PM DestFolder = \Claims
+4/18/2024 3:13:10 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 3:13:15 PMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 3:13:17 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 3:13:27 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:13:27 PM DestFolder = \Claims
+4/18/2024 3:13:27 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 3:14:17 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:14:17 PM DestFolder = \Claims
+4/18/2024 3:14:17 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+-----------------------------------
+4/18/2024 3:15:04 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:15:04 PM DestFolder = \Claims
+4/18/2024 3:15:04 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 3:15:23 PMError: The object is not identified, and cannot be locked or read from.
+-----------------------------------
+4/18/2024 3:17:56 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 3:17:56 PM DestFolder = \Title Dead
+4/18/2024 3:17:56 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:01:48 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:01:48 PM DestFolder = \Title Dead
+4/18/2024 4:01:48 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:04:20 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:04:20 PM DestFolder = \Title Dead
+4/18/2024 4:04:20 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:06:57 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:06:57 PM DestFolder = \Title Dead
+4/18/2024 4:06:57 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:09:06 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:09:06 PM DestFolder = \Claims
+4/18/2024 4:09:06 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/18/2024 4:09:48 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:09:48 PM DestFolder = \Claims
+4/18/2024 4:09:48 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/18/2024 4:10:01 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:10:01 PM DestFolder = \Claims
+4/18/2024 4:10:01 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 4:10:02 PMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 4:10:04 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 4:10:16 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:10:16 PM DestFolder = \Claims
+4/18/2024 4:10:16 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+-----------------------------------
+4/18/2024 4:14:10 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:14:10 PM DestFolder = \Claims
+4/18/2024 4:14:10 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/18/2024 4:15:22 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:15:22 PM DestFolder = \Claims
+4/18/2024 4:15:22 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/18/2024 4:19:27 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:19:27 PM DestFolder = \Claims
+4/18/2024 4:19:27 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/18/2024 4:20:13 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:20:13 PM DestFolder = \Claims
+4/18/2024 4:20:13 PM DocName = attr6-VIEW ALL
+-----------------------------------
+4/18/2024 4:20:44 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:20:44 PM DestFolder = \Title Dead
+4/18/2024 4:20:44 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:26:37 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:26:37 PM DestFolder = \Title Dead
+4/18/2024 4:26:37 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:41:41 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:41:41 PM DestFolder = \Title Dead
+4/18/2024 4:41:41 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:42:01 PM
+DocumentType   = Claims
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:42:01 PM DestFolder = \Claims
+4/18/2024 4:42:01 PM DocName = attr6-VIEW ALL
+Laserfiche Client Interface is Closed, Trying to load it
+Search Syntax: 
+4/18/2024 4:42:01 PMError: The object is not identified, and cannot be locked or read from.
+4/18/2024 4:42:03 PM Cannot find volume Default
+-----------------------------------
+4/18/2024 4:42:11 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:42:11 PM DestFolder = \Title Dead
+4/18/2024 4:42:11 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:43:25 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:43:25 PM DestFolder = \Title Dead
+4/18/2024 4:43:25 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:44:02 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:44:02 PM DestFolder = \Title Dead
+4/18/2024 4:44:02 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:44:24 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:44:24 PM DestFolder = \Title Dead
+4/18/2024 4:44:24 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:45:16 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:45:16 PM DestFolder = \Title Dead
+4/18/2024 4:45:16 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:48:32 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:48:32 PM DestFolder = \Title Dead
+4/18/2024 4:48:32 PM DocName = 6
+Laserfiche Client Interface is Closed, Trying to load it
+-----------------------------------
+4/18/2024 4:53:56 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:53:56 PM DestFolder = \Title Dead
+4/18/2024 4:53:56 PM DocName = 6
+4/18/2024 4:54:03 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/18/2024 4:54:58 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:54:58 PM DestFolder = \Title Dead
+4/18/2024 4:54:58 PM DocName = 6
+4/18/2024 4:55:04 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/18/2024 4:57:04 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:57:04 PM DestFolder = \Title Dead
+4/18/2024 4:57:04 PM DocName = 6
+4/18/2024 4:57:10 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/18/2024 4:58:27 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:58:27 PM DestFolder = \Title Dead
+4/18/2024 4:58:27 PM DocName = 6
+4/18/2024 4:58:46 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/18/2024 4:59:39 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 4:59:39 PM DestFolder = \Title Dead
+4/18/2024 4:59:39 PM DocName = 6
+4/18/2024 4:59:42 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/18/2024 5:01:44 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/18/2024 5:01:44 PM DestFolder = \Title Dead
+4/18/2024 5:01:44 PM DocName = 6
+4/18/2024 5:01:45 PM Not logged into a database, try to open new connection.
+-----------------------------------
+4/19/2024 12:12:31 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/19/2024 12:12:31 PM DestFolder = \Title Dead
+4/19/2024 12:12:31 PM DocName = 6
+{[TitleDead]:[ID]="2", Type="D"} | {[TitleDead]:[ID]="3", Type="D"} | {[TitleDead]:[ID]="4", Type="D"} | {[TitleDead]:[ID]="5", Type="D"} | {[TitleDead]:[ID]="6", Type="D"}
+-----------------------------------
+4/19/2024 12:13:29 PM
+DocumentType   = Title Dead
+LFSuffix       = VIEdW ALL
+DocumentID     = 2;3;4;5;6
+Branch         = 6
+InsurerCode    = attr5
+DocumentNumber = attr6
+SubscriberCode = attr7
+4/19/2024 12:13:29 PM DestFolder = \Title Dead
+4/19/2024 12:13:29 PM DocName = 6
+{[Title Deed]:[PolicyNumber ]="2"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="3"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="4"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="5"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="6"} & {LF:Name="*", Type="D"}
+4/19/2024 12:13:30 PM Preparing Fields Values
+-----------------------------------
+4/19/2024 12:31:58 PM
+4/19/2024 12:31:58 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:31:58 PM DestFolder = \Title Dead
+4/19/2024 12:31:58 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 12:32:18 PM
+4/19/2024 12:32:18 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:32:18 PM DestFolder = \Title Dead
+4/19/2024 12:32:18 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 12:40:29 PM
+4/19/2024 12:40:29 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:40:29 PM DestFolder = \Title Dead
+4/19/2024 12:40:29 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 12:53:54 PM
+4/19/2024 12:53:54 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:53:54 PM DestFolder = \Title Dead
+4/19/2024 12:53:54 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 12:57:14 PM
+4/19/2024 12:57:14 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:57:14 PM DestFolder = \Title Dead
+4/19/2024 12:57:14 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 12:58:28 PM
+4/19/2024 12:58:28 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:58:28 PM DestFolder = \Title Dead
+4/19/2024 12:58:28 PM DocName = 301069
+-----------------------------------
+4/19/2024 12:58:44 PM
+4/19/2024 12:58:44 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 12:58:44 PM DestFolder = \Title Dead
+4/19/2024 12:58:44 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 1:01:20 PM
+4/19/2024 1:01:20 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 1:01:20 PM DestFolder = \Title Dead
+4/19/2024 1:01:20 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 1:18:19 PM
+4/19/2024 1:18:19 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 1:18:19 PM DestFolder = \Title Dead
+4/19/2024 1:18:19 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 1:19:58 PM
+4/19/2024 1:19:58 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 1:19:58 PM DestFolder = \Title Dead
+4/19/2024 1:19:58 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 1:22:01 PM
+4/19/2024 1:22:01 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 1:22:01 PM DestFolder = \Title Dead
+4/19/2024 1:22:01 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/19/2024 1:22:35 PM
+4/19/2024 1:22:35 PM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/19/2024 1:22:36 PM DestFolder = \Title Dead
+4/19/2024 1:22:36 PM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/22/2024 9:29:01 AM
+4/22/2024 9:29:01 AM Error reading parameters
+DocumentType   = POLICY
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+-----------------------------------
+4/22/2024 9:29:41 AM
+4/22/2024 9:29:41 AM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/22/2024 9:29:41 AM DestFolder = \Title Dead
+4/22/2024 9:29:41 AM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/22/2024 9:50:07 AM
+4/22/2024 9:50:07 AM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/22/2024 9:50:07 AM DestFolder = \Title Dead
+4/22/2024 9:50:07 AM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/22/2024 9:50:50 AM
+4/22/2024 9:50:50 AM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/22/2024 9:50:50 AM DestFolder = \Title Dead
+4/22/2024 9:50:50 AM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/22/2024 9:53:57 AM
+4/22/2024 9:53:58 AM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/22/2024 9:53:58 AM DestFolder = \Title Dead
+4/22/2024 9:53:58 AM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
+-----------------------------------
+4/22/2024 9:54:13 AM
+4/22/2024 9:54:13 AM Error reading parameters
+DocumentType   = Title Dead
+LFSuffix       = VIEW latest
+DocumentID     = 301069;282889;258376;301078
+Branch         = 301069
+InsurerCode    = 
+DocumentNumber = 
+SubscriberCode = 
+4/22/2024 9:54:13 AM DestFolder = \Title Dead
+4/22/2024 9:54:13 AM DocName = 301069
+{[Title Deed]:[PolicyNumber ]="301069"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="282889"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="258376"} & {LF:Name="*", Type="D"} | {[Title Deed]:[PolicyNumber ]="301078"} & {LF:Name="*", Type="D"}
