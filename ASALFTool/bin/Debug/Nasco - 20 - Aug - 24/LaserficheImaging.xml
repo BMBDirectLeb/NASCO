@@ -1,0 +1,1877 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        "LaserficheImaging"
+    </assembly>
+    <members>
+        <member name="M:Laserfiche.Imaging.LfiResizedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Double,System.Double,Laserfiche.Imaging.LfiResizeOptions)">
+            <summary>Initializes an <c>LfiResizedBitmap</c> instance with the specified size
+from a source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="newWidth">The width of the resulting bitmap in logical pixels.</param>
+            <param name="newHeight">The height of the resulting bitmap in logical pixels.</param>
+            <param name="options">Options that control how the resize operation will run.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiResizedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Int32,System.Int32,Laserfiche.Imaging.LfiResizeOptions)">
+            <summary>Initializes an <c>LfiResizedBitmap</c> instance with the specified size
+from a source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="newPixelWidth">The width of the resulting bitmap in real pixels.</param>
+            <param name="newPixelHeight">The height of the resulting bitmap in real pixels.</param>
+            <param name="options">Options that control how the resize operation will run.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiResizedBitmap">
+            <summary>A bitmap that is a resized version of an existing bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapEncoder.Save(System.Byte[])">
+            <summary>Writes the images in the <c>Frames</c> collection to the supplied
+byte array.</summary>
+            <returns>The number of bytes written to the buffer.</returns>
+            <param name="buffer">A byte buffer that will contain the output image data.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapEncoder.Save(System.IO.Stream)">
+            <summary>Writes the images in the <c>Frames</c> collection to the supplied
+<c>Stream</c> instance.</summary>
+            <param name="stream">The <c>Stream</c> instance where the output will be written.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapEncoder.Save(System.String)">
+            <summary>Writes the images in the <c>Frames</c> collection to the file at the
+specified path.</summary>
+            <param name="path">The path to the output file that will contain the image(s).</param>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapEncoder.Append">
+            <summary>Gets or sets a boolean indicating if the new image frames to be written
+will be appended to any existing output file.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapEncoder.Overwrite">
+            <summary>Gets or sets a boolean indicating if existing frames in an output file
+can be overwritten.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapEncoder.Quality">
+            <summary>Gets or sets the quality level or factor used when compressing images
+using lossy codecs.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapEncoder.SupportsMultipleFrames">
+            <summary>Gets a boolean which indicates if the selected container format
+supports multiple frames in a file (e.g., TIFF).</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapEncoder.ContainerFormat">
+            <summary>Gets a member of the <c>LfiContainerFormat</c> enumeration which
+specifies the image file container format that will wrap the encoded images.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapEncoder.Frames">
+            <summary>Gets or sets the collection of image frames that will be written
+to the output</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapEncoder.#ctor(Laserfiche.Imaging.LfiContainerFormat)">
+            <summary>Initializes a <c>LfiBitmapEncoder</c> instance that can encode
+images using the specified container format.</summary>
+            <param name="cformat">A member of the <c>LfiContainerFormat</c> enumeration
+specifying the image container format that will wrap the output.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBitmapEncoder">
+            <summary>Implements an interface to encode bitmaps using a selectable
+image codec and container format, and to save the output to a <c>Stream</c>,
+buffer, or file.</summary>
+        </member>
+        <member name="M:Lfi_SetLoggingFile(System.Char!System.Runtime.CompilerServices.IsConst*)">
+\brief  Internal Debug only.
+
+</member>
+        <member name="M:Lfi_CreateAlphaComposer(System.UInt32,System.UInt32,_GUID,System.Double,System.Double,ILFWicBitmapComposerEx**)">
+API Stub. Not Implemented. Do not call. (LF82)
+
+</member>
+        <member name="M:Lfi_CreateOpaqueComposer(System.UInt32,System.UInt32,_GUID,System.Double,System.Double,ILFWicBitmapComposer**)">
+\brief Creates an object capable of composing opaque image layers.
+       Once created, layers can be added one-by-one using the ILFWicBitmapComposer 
+       interface.
+\attention The composer object created by this function does not implement the
+           ILFWicBitmapComposerEx interface.
+\attention The pixelFormat indicates the pixel format that will be returned
+           when the composer's IWICBitmapSource::GetPixelFormat and CopyPixels
+           methods are invoked. The layers that are added to the composition
+           can have different pixel formats.
+\attention Indexed pixel formats cannot be used as the composer's returned
+           format.
+
+</member>
+        <member name="M:Lfi_AlphaBlendRect(IWICBitmap*,System.Int32,System.Int32,System.UInt32,System.UInt32,IWICBitmapSource*,System.Int32,System.Int32,IWICBitmapSource*,System.Int32,System.Int32,LfiBlendOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Alpha-blending using the color values of the source image and 
+       opacity values of the mask image. This version is more general can tolerate
+       out-of-bound parameters. Negative values can be used in some arguments.
+
+</member>
+        <member name="M:Lfi_AlphaBlendRect(IWICBitmap*,System.UInt32,System.UInt32,IWICBitmapSource*,IWICBitmapSource*,LfiBlendOption!System.Runtime.CompilerServices.IsConst*)">
+\brief  Alpha-blending using the color values of the source image and 
+        opacity values of the mask image.
+
+</member>
+        <member name="M:Lfi_CreateAlphaImage(IWICBitmapSource*,IWICBitmapSource*,IWICBitmap**,LfiAlphaMaskOption!System.Runtime.CompilerServices.IsConst*)">
+\brief  Adds an alpha channel to a normal image.
+\attention The MaskOption argument is required.
+\attention When a Mask image is specified, the LfiAlphaMaskMode flag is ignored.
+
+</member>
+        <member name="M:Lfi_CreateAlphaMask(IWICBitmapSource*,IWICBitmap**,LfiAlphaMaskOption!System.Runtime.CompilerServices.IsConst*)">
+\brief  Creates a opacity mask from the pixel values of an image.
+\attention The MaskOption argument is required.
+
+</member>
+        <member name="M:Lfi_ImageBorder(IWICBitmapSource*,System.Int32,System.Int32,System.Int32,System.Int32,System.UInt32,IWICBitmap**)">
+Adds or removes border from the source image. A new image containing the result is returned.
+
+\param left, top, right, bottom Amount of border to add to or subtract from.
+       A positive value means that border will be added to the image. 
+       A negative value for one side causes rows or columns of pixels to be 
+       removed from that side of the image.
+
+\param fillColor Color to use when a border is added. For paletted images, 
+       the color of the nearest palette entry will be used.
+
+\attention The dimensions of the output image must be non-empty. Otherwise, 
+           E_INVALIDARG is returned.
+
+</member>
+        <member name="M:Lfi_CopyRect(IWICBitmapSource*,System.UInt32,System.UInt32,System.UInt32,System.UInt32,IWICBitmap*,System.UInt32,System.UInt32,LfiPaletteCopyMode)">
+Transfers the contents in a rectangular region from one image to another image, 
+with options to ignore the palette, keep the same palette, or recreate a new palette
+based on the composite result.
+
+</member>
+        <member name="M:Lfi_CopyRect(IWICBitmapSource*,System.UInt32,System.UInt32,System.UInt32,System.UInt32,IWICBitmap*,System.UInt32,System.UInt32)">
+\brief  Transfers the contents in a rectangular region from one image to another image.
+
+</member>
+        <member name="M:Lfi_PasteRect(IWICBitmapSource*,System.UInt32,System.UInt32,IWICBitmap*)">
+\brief  Copies the content of the source image into a rectangular region 
+        in the destination image.
+
+</member>
+        <member name="M:Lfi_CropRect(IWICBitmapSource*,tagRECT!System.Runtime.CompilerServices.IsConst*,IWICBitmap**)">
+\brief  Creates a cropped copy of an image.
+
+</member>
+        <member name="M:Lfi_Highlight(IWICBitmap*,System.UInt32,WICRect!System.Runtime.CompilerServices.IsConst*,System.Byte!System.Runtime.CompilerServices.IsConst*,System.Byte!System.Runtime.CompilerServices.IsConst*,System.Byte!System.Runtime.CompilerServices.IsConst*)">
+\brief  Applies highlight to multiple rectangular regions with corresponding colors.
+
+\param count Number of highlight rectangles.
+
+\param pArrRect Pointer to start of WICRect array. This parameter cannot be NULL.
+       The WICRect array must be packed. All rectangles must be valid.
+
+\param pArrRed, pArrGreen, pArrBlue Pointers to start of R, G and B arrays respectively.
+       These parameters cannot be NULL.
+
+\remark The algorithm is optimized for 24bppBGR images. When this function is applied
+        on a non-24bppBGR image, automatic format pre-conversion and post-conversion
+        will take place.
+
+\remark When applied on higher-BPP images such as alpha-containing BGRA or 
+        per-channel width greater than 8-bit, the alpha values and additional
+        per-channel precision will be lost.
+
+</member>
+        <member name="M:Lfi_Highlight(IWICBitmap*,WICRect!System.Runtime.CompilerServices.IsConst*,System.Byte,System.Byte,System.Byte)">
+\brief  Applies highlight to the rectangular region with the specified color.
+
+\remark When pRect is NULL, the highlight is applied to the whole image.
+
+\remark The algorithm is optimized for 24bppBGR images. When this function is applied
+        on a non-24bppBGR image, automatic format pre-conversion and post-conversion
+        will take place.
+
+\remark When applied on higher-BPP images such as alpha-containing BGRA or 
+        per-channel width greater than 8-bit, the alpha values and additional
+        per-channel precision will be lost.
+
+</member>
+        <member name="M:Lfi_FillRect(IWICBitmap*,tagRECT!System.Runtime.CompilerServices.IsConst*,System.UInt32!System.Runtime.CompilerServices.IsLong)">
+\brief  Fills the rectangle region with the specified color.
+
+\details   If the image is paletted, the nearest palette color will be used.
+
+</member>
+        <member name="M:Lfi_AdjustBrightnessContrast(IWICBitmapSource*,System.Double,System.Double,IWICBitmap**)">
+\brief  Adjust the brightness and contrast in a copy of the image.
+</member>
+        <member name="M:Lfi_ChangeToOptimizedPalette(IWICBitmapSource*,System.UInt32,System.UInt32,IWICBitmap**)">
+\brief  Create a palette that is optimized for the image, then create a paletted copy of that image.
+\details  The image will be dithered.
+\details  Valid values for bitDepth are: 1, 4, 8.
+
+</member>
+        <member name="M:Lfi_ChangeToWebSafe(IWICBitmapSource*,System.UInt32,IWICBitmap**)">
+\brief  Create a copy of an image using the WebSafe palette. 
+\details  The image will be dithered.
+\attention  Not implemented.
+
+</member>
+        <member name="M:Lfi_Threshold(IWICBitmapSource*,System.Int32,IWICBitmap**)">
+\brief  Create a black-and-white copy of an image by thresholding at the specified grayscale level.
+
+</member>
+        <member name="M:Lfi_ChangeToBlackWhite(IWICBitmapSource*,System.UInt32,IWICBitmap**)">
+\brief  Create a black-and-white copy of an image.
+
+</member>
+        <member name="M:Lfi_ChangeToColor(IWICBitmapSource*,System.UInt32,IWICBitmap**)">
+\brief  Create a color copy of an image. 
+
+</member>
+        <member name="M:Lfi_ChangeToGray(IWICBitmapSource*,System.UInt32,IWICBitmap**)">
+\brief  Create a grayscale copy of an image.
+
+</member>
+        <member name="M:Lfi_ChangeBitDepth(IWICBitmapSource*,System.UInt32,IWICBitmap**)">
+\brief Deprecated. 
+\deprecated Use these functions instead: Lfi_ChangeToGray, Lfi_ChangeToColor, 
+            Lfi_ChangeToBlackWhite, Lfi_ChangeToWebSafe, Lfi_ChangeToOptimizedPalette.
+
+</member>
+        <member name="M:Lfi_InvertPixelValues(IWICBitmap*)">
+\brief Invert pixel values, in place.
+\attention For non-paletted images, the pixel values will be inverted.
+\attention For paletted images, only the palette entries are inverted. 
+           The pixel values will refer to the same palette index before.
+
+</member>
+        <member name="M:Lfi_InvertPixelValues(IWICBitmapSource*,IWICBitmap**)">
+\brief Invert pixel values.
+\attention For non-paletted images, the pixel values will be inverted.
+\attention For paletted images, only the palette entries are inverted. 
+           The pixel values will refer to the same palette index before.
+
+</member>
+        <member name="M:Lfi_Resize(IWICBitmap*,LfiResizeOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap*)">
+\brief  Resize an image. Result will be stretched to the size of the output image.
+\attention This version does not perform format conversion. The input and output bitmaps
+           must be in a format that can be processed internally by LfWicUtil.
+
+</member>
+        <member name="M:Lfi_Resize(IWICBitmapSource*,System.UInt32,System.UInt32,LfiResizeOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap**)">
+\brief  Resize an image. Result is returned in a new image.
+
+</member>
+        <member name="M:Lfi_FlipRotate(IWICBitmapSource*,WICBitmapTransformOptions,IWICBitmap*)">
+\brief Flip and rotate image. The rotation must be a multiple of 90 degrees.
+       The result is written to an existing image.
+
+</member>
+        <member name="M:Lfi_FlipRotate(IWICBitmapSource*,WICBitmapTransformOptions,IWICBitmap**)">
+\brief  Rotate an image. Result is written to itself. 
+
+\attention The rotation origin is the image center. This function cannot resize
+           the image (regardless of whether the degree is divisible by 90 degrees)
+           therefore portions of the result may be clipped.
+
+\attention If the image has equal width and height, and the rotation is 
+           a multiple of 90 degrees, the result is guaranteed to be without clipping.
+
+\brief Flip and rotate image. The rotation must be a multiple of 90 degrees.
+       The result is returned as a new image.
+
+</member>
+        <member name="M:Lfi_Rotate(IWICBitmapSource*,System.Double,LfiRotateOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap*)">
+\brief  Rotate an image. Result is written to an existing image.
+
+\attention The rotation origin will be the centers of the two images.
+
+\attention If the output image is smaller than needed for the rotated output,
+           part of the result may be clipped.
+
+\attention If the pixel format of the output image cannot satisfy the 
+           output requirement, this function fails.
+
+\attention The LfiRotateOption::allowResize flag is ignored. The output size
+           is determined by the user-specified output image object.
+
+</member>
+        <member name="M:Lfi_Rotate(IWICBitmapSource*,System.Double,LfiRotateOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap**)">
+\brief  Rotate an image. Result is returned in a new image.
+
+</member>
+        <member name="M:Lfi_CreateDisplayCache(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,ILFWicDisplayCache**)">
+\brief Creates a display cache object. The returned object will provide two
+       interfaces: ILFWicDisplayCache and ILFWicDisplayCacheStatus. 
+       Image decoding will start in a separate thread. Client can use the 
+       ILFWicDisplayCacheStatus methods to check the progress of decoding.
+
+\attention This is a COM-like object which must be released according to 
+           COM object rules.
+
+</member>
+        <member name="M:Lfi_CreateDisplayCache(IStream*,System.UInt32,LfiDisplayCache*,System.UInt32,LfiDisplayCacheOption!System.Runtime.CompilerServices.IsConst*,System.Double*,System.UInt32!System.Runtime.CompilerServices.IsLong*)">
+\brief Create a display cache directly from an IStream, with options to reduce
+       memory usage.
+
+\attention  Use this version when opening the image on a machine which 
+            has less memory than the uncompressed size of the image.
+
+</member>
+        <member name="M:Lfi_CreateDisplayCache(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiDisplayCache*,System.UInt32,LfiDisplayCacheOption!System.Runtime.CompilerServices.IsConst*,System.Double*,System.UInt32!System.Runtime.CompilerServices.IsLong*)">
+\brief Create a display cache directly from a file, with options to reduce
+       memory usage.
+
+\attention  Use this version when opening the image on a machine which 
+            has less memory than the uncompressed size of the image.
+
+</member>
+        <member name="M:Lfi_CreateDisplayCache(IStream*,System.UInt32,LfiDisplayCache*,System.UInt32,LfiDisplayCacheOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Create a display cache directly from an IStream, with options to reduce
+       memory usage.
+
+\attention  Use this version when opening the image on a machine which 
+            has less memory than the uncompressed size of the image.
+
+</member>
+        <member name="M:Lfi_CreateDisplayCache(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiDisplayCache*,System.UInt32,LfiDisplayCacheOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Create a display cache directly from a file, with options to reduce
+       memory usage.
+
+\attention  Use this version when opening the image on a machine which 
+            has less memory than the uncompressed size of the image.
+
+</member>
+        <member name="M:Lfi_CreateDisplayCache(IWICBitmapSource*,LfiDisplayCache*,System.UInt32)">
+\brief Creates a display cache structure from an image.
+
+\details The cache will contain scaled copies of the input image.
+
+\attention 1. User must declare, but does not need to initialize 
+              LfiDisplayCache prior to calling this function. 
+
+\attention 2. Do not manipulate the content of this cache structure.
+
+\attention 3. User must call Lfi_DestroyDisplayCache when it is no longer used.
+
+\details 4. The cache may contain a reference to the original IWIBitmapSource.
+\details 5. If the input image is modified, the cache may become out-of-date.
+
+</member>
+        <member name="M:Lfi_DrawToDC(LfiDisplayCache*,WICBitmapTransformOptions,tagRECT!System.Runtime.CompilerServices.IsConst*,HDC__*,tagRECT!System.Runtime.CompilerServices.IsConst*)">
+\brief Speed-optimized drawing of the specific image region on the Device Context.
+
+</member>
+        <member name="M:Lfi_DrawToDC(IWICBitmapSource*,WICBitmapTransformOptions,tagRECT!System.Runtime.CompilerServices.IsConst*,HDC__*,tagRECT!System.Runtime.CompilerServices.IsConst*)">
+\brief Draws the specific image region on the Device Context.
+
+</member>
+        <member name="M:Lfi_ConvertFile(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,IStream*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+Reads an image from the source file and then save to the output IStream.
+
+\attention Image operation is limited to the options offered in LfiLoadOption
+           and LfiSaveOption.
+
+\details This API can be used whenever image operation is not necessary.
+         LfWicUtil tries to minimize overhead by eliminating certain internal 
+         operations and optimize memory usage.
+
+</member>
+        <member name="M:Lfi_ConvertFile(IStream*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,System.Char!System.Runtime.CompilerServices.IsConst*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+Reads an image from the source IStream and then save to the output file.
+
+\attention Image operation is limited to the options offered in LfiLoadOption
+           and LfiSaveOption.
+
+\details This API can be used whenever image operation is not necessary.
+         LfWicUtil tries to minimize overhead by eliminating certain internal 
+         operations and optimize memory usage.
+
+</member>
+        <member name="M:Lfi_ConvertFile(IStream*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,IStream*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+Reads an image from the source IStream and then save to the output IStream.
+
+\attention Image operation is limited to the options offered in LfiLoadOption
+           and LfiSaveOption.
+
+\details This API can be used whenever image operation is not necessary.
+         LfWicUtil tries to minimize overhead by eliminating certain internal 
+         operations and optimize memory usage.
+
+</member>
+        <member name="M:Lfi_ConvertFile(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,System.Char!System.Runtime.CompilerServices.IsConst*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+Converts an image from a source file into another format and then save to 
+another file. 
+
+\attention Image operation is limited to the options offered in LfiLoadOption
+           and LfiSaveOption.
+
+\details This API can be used whenever image operation is not necessary.
+         LfWicUtil tries to minimize overhead by eliminating certain internal 
+         operations and optimize memory usage.
+
+</member>
+        <member name="M:Lfi_ConvertToHDIB(IWICBitmap*,System.Void**)">
+\brief  Extract the encapsulated HDIB from an IWICBitmap. The IWICBitmap must be
+        originally created by ConvertFromHDIB function.
+
+\attention  This method fails if the IWICBitmap was not originally created by
+            the ConvertFromHDIB function.
+
+\attention  After calling this function, the content of the IWICBitmap will be
+            erased, by setting all pixel values to zero and the palette size
+            to zero. At that point the IWICBitmap will not allocate any memory.
+
+\attention  It is safe to continue using the IWICBitmap after calling this 
+            function. Memory will be allocated again when caller starts writing 
+            to the IWICBitmap.
+
+</member>
+        <member name="M:Lfi_ConvertFromHDIB(System.Void*,IWICBitmap**)">
+\brief  Convert an HDIB (a DIB stored in HGLOBAL) into an IWICBitmap.
+\attention  After calling this function, the caller must stop using the HDIB 
+            as the IWICBitmap object takes ownership of the HDIB. 
+\attention  To convert the IWICBitmap object back to HDIB, call ConvertToHDIB.
+
+</member>
+        <member name="M:Lfi_CopyToHDIB(IWICBitmapSource*,System.Void*)">
+\brief  Copies the content from an WIC image to an existing HDIB.
+\attention The image must have same dimensions.
+
+</member>
+        <member name="M:Lfi_CopyFromHDIB(System.Void*,IWICBitmap*)">
+\brief  Copies the content from an HDIB to an existing WIC image.
+\attention The image must have same dimensions.
+
+</member>
+        <member name="M:Lfi_CreateImageFromDIB(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,IWICBitmap**)">
+\brief  Creates a new IWICBitmap by copying the content from the source image,
+        which is a DIB.
+\param  pSourceDIB  pointer to the start of the DIB memory.
+\param  cbAllocSize  length of the DIB memory. This function will report an error if 
+                     the DIB memory is truncated.
+\param  ppNewImage  the new Image that is created from copy.
+
+</member>
+        <member name="M:Lfi_CreateImageFromHDIB(System.Void*,IWICBitmap**)">
+\brief  Creates a new IWICBitmap by copying the content from the source image,
+        which is a HDIB (DIB stored in HGLOBAL).
+
+\attention This function does not modify the source HDIB.
+
+</member>
+        <member name="M:Lfi_CreateHDIBFromImage(IWICBitmapSource*,System.Void**)">
+\brief  Creates a new HDIB (DIB stored in HGLOBAL) by copying the content from the 
+        source image.
+
+</member>
+        <member name="M:Lfi_CopyFromDIB(IWICBitmap*,System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32)">
+\brief  Copies the pixel data from a DIB to a IWICBitmap.
+
+\details  This function will handle the top-down/bottom-up conversion 
+          between DIB and WIC.
+\details  The existing IWICBitmap and DIB must have same size and same pixel format. 
+\details  The palette is ignored.
+
+</member>
+        <member name="M:Lfi_CopyToDIB(IWICBitmapSource*,System.Byte*,System.UInt32,System.UInt32*)">
+\brief Copies the pixel data from an IWICBitmap to a DIB.
+
+\details This function will handle the top-down/bottom-up conversion 
+         between DIB and WIC, 
+\details The DIB header will be re-initialized. Any data in the destination
+         is ignored and overwritten. 
+\details If the pixel format supports palette, the output DIB header will be 
+         written with a full-size palette.
+\details CopyToDIB fails if the Pixel format is not supported in DIB, or
+         if the buffer size is too small.
+
+</member>
+        <member name="M:Lfi_GetNearestColor(LfiPaletteInfo!System.Runtime.CompilerServices.IsConst*,System.Byte,System.Byte,System.Byte,System.Byte,System.Byte*)">
+\brief Finds the palette entry whose color is closest to the specified RGBA values.
+
+</member>
+        <member name="M:Lfi_GetNearestColor(LfiPaletteInfo!System.Runtime.CompilerServices.IsConst*,System.Byte,System.Byte,System.Byte,System.Byte*)">
+\brief Finds the palette entry whose color is closest to the specified RGB values.
+
+</member>
+        <member name="M:Lfi_GenerateOptimizedPalette(IWICBitmapSource*,System.UInt32,System.UInt32,LfiPaletteInfo*)">
+\brief  Create a palette that is optimized for the given image.
+\details  Valid values for bitDepth are: 1, 4, 8.
+
+</member>
+        <member name="M:Lfi_LoadStandardPalette(LfiPaletteInfo*)">
+\brief Create a standard palette.
+
+</member>
+        <member name="M:Lfi_DetectPaletteType(LfiPaletteInfo*)">
+\brief Update the palette type flags according to the color values.
+
+</member>
+        <member name="M:Lfi_SetImagePalette(IWICBitmap*,LfiPaletteInfo!System.Runtime.CompilerServices.IsConst*)">
+\brief Assigns an image palette to an image.
+
+</member>
+        <member name="M:Lfi_GetImagePalette(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.UInt32,LfiPaletteInfo*)">
+\brief Reads the palette of an image file stream from memory 
+       without decoding the entire image.
+
+</member>
+        <member name="M:Lfi_GetImagePalette(IStream*,System.UInt32,LfiPaletteInfo*)">
+\brief Reads the palette of an image file stream without decoding the entire image.
+
+</member>
+        <member name="M:Lfi_GetImagePalette(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiPaletteInfo*)">
+\brief Reads the palette of an image file without decoding the entire image.
+
+</member>
+        <member name="M:Lfi_GetImagePalette(IWICBitmapSource*,LfiPaletteInfo*)">
+\brief Copies the palette of an image to an LfiPaletteInfo.
+\details If the image does not have a palette, this function will succeed, 
+         and the LfiPaletteInfo will have zero entries.
+
+</member>
+        <member name="M:Lfi_SetImageDPI(IWICBitmap*,System.Double,System.Double)">
+\brief Changes the horizontal and vertical resolution.
+
+</member>
+        <member name="M:Lfi_GetImageDPI(IWICBitmapSource*,System.Double*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.Double*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)">
+\brief Returns the horizontal and vertical resolution.
+
+</member>
+        <member name="M:Lfi_GetImageBitsPerPixel(IWICBitmapSource*,System.UInt32*)">
+\brief Returns the bits per pixel. 
+\deprecated For internal use only. Caller should use Lfi_GetImageInfo instead.
+
+</member>
+        <member name="M:Lfi_GetEquivalentBitDepth(_GUID!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.UInt32*)">
+Look up the bits per pixel of a pixel format.
+
+</member>
+        <member name="M:Lfi_CreateImage(LfiImageInfo!System.Runtime.CompilerServices.IsConst*,LfiPaletteInfo!System.Runtime.CompilerServices.IsConst*,IWICBitmap**)">
+\brief Create a blank image with the given size, pixel format, and palette (needed if the format is an indexed).
+\details The LfiPaletteInfo is required if the pixel format requires a palette. 
+         Otherwise, it is ignored and can be NULL.
+
+</member>
+        <member name="M:Lfi_CreateImage(LfiImageInfo!System.Runtime.CompilerServices.IsConst*,IWICBitmap**)">
+\brief Create a blank image with the size and format specified by LfiImageInfo.
+\details The image is created without a palette, regardless of the pixel format.
+
+</member>
+        <member name="M:Lfi_CreateImage(System.UInt32,System.UInt32,_GUID!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,System.UInt32!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.Double,System.Double,IWICBitmap**)">
+\brief Create a blank image.
+
+</member>
+        <member name="M:Lfi_CreateImage(System.UInt32,System.UInt32,_GUID!System.Runtime.CompilerServices.IsConst*!System.Runtime.CompilerServices.IsImplicitlyDereferenced,WICBitmapPaletteType,System.Double,System.Double,IWICBitmap**)">
+\brief Create a blank image.
+\details For pixel formats that do not require a palette, use 
+         WICBitmapPaletteTypeCustom for paletteType.
+
+</member>
+        <member name="M:Lfi_CreateImage(System.UInt32,System.UInt32,System.UInt32,System.Double,System.Double,IWICBitmap**)">
+\brief Create a blank image.
+
+</member>
+        <member name="M:Lfi_CopyImage(IWICBitmapSource*,IWICBitmap*,LfiPaletteCopyMode)">
+\brief Copy the content of an image to another image. The two images can have 
+       different pixel format and/or palette colors.
+\param pSource
+\param pOutput
+\param paletteCopyMode Controls whether the palette of pOutput will be updated
+       by this function as a result of copying.
+\attention The two images must have same dimensions.
+
+</member>
+        <member name="M:Lfi_CopyImage(IWICBitmapSource*,IWICBitmap*)">
+\brief Copy the content of an image to another image. The two images can have 
+       different pixel format.
+\attention The two images must have same dimensions.
+
+</member>
+        <member name="M:Lfi_CopyImage(IWICBitmapSource*,IWICBitmap**)">
+\brief Copy an image. 
+\details After copying, the original image and the new image can be modified
+         independently.
+\attention The two images must have same dimensions.
+
+</member>
+        <member name="M:Lfi_GetThumbnail(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.UInt32,System.UInt32,IWICBitmap**)">
+Gets a thumbnail from a compressed image serialized in a byte array.
+The image will be scaled down proportionally until its longest side
+is not greater than the specified size.
+Images smaller than the specified size are not scaled up.
+
+</member>
+        <member name="M:Lfi_GetThumbnail(IStream*,System.UInt32,System.UInt32,IWICBitmap**)">
+Gets a thumbnail from an image provided via an IStream.
+The image will be scaled down proportionally until its longest side
+is not greater than the specified size.
+Images smaller than the specified size are not scaled up.
+
+</member>
+        <member name="M:Lfi_GetThumbnail(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.UInt32,IWICBitmap**)">
+Gets a thumbnail from a file.
+The image will be scaled down proportionally until its longest side
+is not greater than the specified size.
+Images smaller than the specified size are not scaled up.
+
+</member>
+        <member name="M:Lfi_GetThumbnail(IWICBitmapSource*,System.UInt32,IWICBitmap**)">
+Gets a thumbnail from an image.
+The image will be scaled down proportionally until its longest side
+is not greater than the specified size.
+Images smaller than the specified size are not scaled up.
+
+</member>
+        <member name="M:Lfi_SaveImage(IWICBitmapSource*,System.Void**,System.UInt32*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Saves an image to a HGLOBAL (a section of memory that can be accessed via the handle).
+\details This function creates the HGLOBAL, writes to it and returns to the caller.
+\details Caller is responsible for releasing the HGLOBAL when finished using.
+\attention This function does not support creating a multi-page file in memory.
+
+</member>
+        <member name="M:Lfi_SaveImage(IWICBitmapSource*,System.Byte*,System.UInt32,System.UInt32*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Saves an image to a fixed-size byte array allocated by the user.
+\details This function fails if the byte array is too small.
+\details This function always overwrites the memory area.
+\attention This function does not support creating multi-page file in memory.
+
+</member>
+        <member name="M:Lfi_SaveImage(IWICBitmapSource*,IStream*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Saves an image to a writable IStream
+\details Multi-page files can be created by specifying the append flag in LfiSaveOption.
+\details When appending to a multi-page file, this function will write a small
+         amount of data to the prior frame; therefore seeking must be enabled.
+
+</member>
+        <member name="M:Lfi_SaveImage(IWICBitmapSource*,System.Char!System.Runtime.CompilerServices.IsConst*,LfWicFileFormat,LfiSaveOption!System.Runtime.CompilerServices.IsConst*)">
+\brief Saves an image to a file.
+\details Multi-page files can be created by specifying the append flag in LfiSaveOption.
+
+\attention 
+In case the file already exists and contains data (file size not zero):
+(1) if bAppend is specified and the existing content is a well-formed multi-page
+    capable TIFF file, a new frame will be added to the file.
+(2) Otherwise, WINCODEC_ERR_ACCESSDENIED will be returned and the existing file 
+    will not be modified.
+
+</member>
+        <member name="M:Lfi_LoadImage(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,IWICBitmap**,LfiImageInfo*)">
+\deprecated
+\brief Loads an image from a file with additional information.
+
+</member>
+        <member name="M:Lfi_LoadImage(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,IWICBitmap**)">
+\deprecated
+\brief Loads an image from a file
+
+</member>
+        <member name="M:Lfi_LoadImage(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.UInt32,IWICBitmap**)">
+\deprecated
+\brief Loads an image from a byte array containing the compressed data.
+\details This function can load a specific frame from a compressed multi-page image file.
+
+</member>
+        <member name="M:Lfi_LoadImage(IStream*,System.UInt32,IWICBitmap**)">
+\deprecated
+\brief Loads an image from an IStream
+
+</member>
+        <member name="M:Lfi_LoadImage(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap**,LfiImageInfo*)">
+\brief Loads an image from a byte array containing the compressed data.
+
+\param pLoadOption  Extra options, including: automatically converting 
+                    certain pixel formats during loading; specifying a 
+                    callback function during the load process
+
+</member>
+        <member name="M:Lfi_LoadImageEx(IStream*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,LfiTransformOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap**,LfiImageInfo*)">
+\brief Loads an image from an IStream.
+
+\param pLoadOption  Extra options, including: automatically converting 
+                    certain pixel formats during loading; specifying a 
+                    callback function during the load process
+\param pTransform   Performs scale, crop and rotation as part of loading
+                    to improve processing and memory efficiency.
+
+</member>
+        <member name="M:Lfi_LoadImage(IStream*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap**,LfiImageInfo*)">
+\brief Loads an image from an IStream.
+
+\param pLoadOption  Extra options, including: automatically converting 
+                    certain pixel formats during loading; specifying a 
+                    callback function during the load process
+
+</member>
+        <member name="M:Lfi_LoadImage(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiLoadOption!System.Runtime.CompilerServices.IsConst*,IWICBitmap**,LfiImageInfo*)">
+\brief Loads an image from a file.
+
+\param pLoadOption  Extra options, including: automatically converting 
+                    certain pixel formats during loading; specifying a 
+                    callback function during the load process
+
+</member>
+        <member name="M:Lfi_GetImageInfo(IWICBitmapSource*,LfiImageInfo*)">
+\brief Gets the dimensions, bit depth and resolutions of an image.
+
+\attention This function only returns either LfWic_Format_IN_MEMORY 
+           or LfWic_Format_IN_MEMORY_DIB. This is because IWICBitmapSource 
+           does not remember the original image codec.
+
+</member>
+        <member name="M:Lfi_GetImageInfo(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,System.UInt32,LfiImageInfo*)">
+\brief Gets the dimensions, bit depth and resolutions of an image.
+
+</member>
+        <member name="M:Lfi_GetImageInfo(IStream*,System.UInt32,LfiImageInfo*)">
+\brief Gets the dimensions, bit depth and resolutions of an image.
+
+</member>
+        <member name="M:Lfi_GetImageInfo(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiImageInfo*)">
+\brief Gets the dimensions, bit depth and resolutions of an image.
+
+</member>
+        <member name="M:Lfi_GetFileInfo(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfiFileInfo*)">
+\brief Get the file format identifier and number of frames in an image file.
+
+</member>
+        <member name="M:Lfi_GetFileInfo(IStream*,LfiFileInfo*)">
+\brief Get the file format identifier and number of frames in an image file.
+
+</member>
+        <member name="M:Lfi_GetFileInfo(System.Char!System.Runtime.CompilerServices.IsConst*,LfiFileInfo*)">
+\brief Get the file format identifier and number of frames in an image file.
+
+</member>
+        <member name="M:Lfi_GetFileInfo(IWICBitmapDecoder*,LfiFileInfo*)">
+\brief Get the file format identifier and number of frames in an image file.
+
+</member>
+        <member name="M:Lfi_GetFileType(System.Byte!System.Runtime.CompilerServices.IsConst*,System.UInt32,LfWicFileFormat*,System.Int32*)">
+\brief Detect the file format.
+
+</member>
+        <member name="M:Lfi_GetFileType(IStream*,LfWicFileFormat*,System.Int32*)">
+\brief Detect the file format.
+
+</member>
+        <member name="M:Lfi_GetFileType(System.Char!System.Runtime.CompilerServices.IsConst*,LfWicFileFormat*,System.Int32*)">
+\brief Detect the file format.
+
+</member>
+        <member name="M:Lfi_GetFileType(IWICBitmapDecoder*,LfWicFileFormat*,System.Int32*)">
+\brief Detect the file format.
+
+</member>
+        <member name="M:Lfi_CreateWriteFileStream(System.Char!System.Runtime.CompilerServices.IsConst*,System.UInt32!System.Runtime.CompilerServices.IsLong,IStream**)">
+\brief Creates an IStream for writing to a file. 
+\note  Refer to MSDN "CreateFile Function" for explanation of the 
+       dwCreationDisposition parameter. Valid values are: 
+       CREATE_ALWAYS, CREATE_NEW, OPEN_ALWAYS, OPEN_EXISTING, TRUNCATE_EXISTING
+
+</member>
+        <member name="M:Lfi_OpenReadFileStream(System.Char!System.Runtime.CompilerServices.IsConst*,IStream**)">
+\brief Creates an IStream for reading a file.
+
+</member>
+        <member name="M:Lfi_CreateTempStream(IStream**)">
+\brief Creates a temporary IStream for transfering an unknown amount of output data. 
+       The implementation uses memory for small amounts of data, and switches to 
+       a temporary file when the stream size grows beyond the internal threshold 
+       in order to avoid memory exhaustion. The temporary file is cleaned up 
+       automatically.
+
+</member>
+        <member name="M:Lfi_GetWindowsImagingFactory(IWICImagingFactory**)">
+\brief Returns the IWICImagingFactory, provided by Windows Imaging Component. 
+       Use this factory object to create operators that are not available in 
+       LfWicUtil.
+
+</member>
+        <member name="M:Lfi_GetVersion(System.UInt16*,System.UInt16*,System.UInt16*,System.UInt16*)">
+Get DLL version.
+
+</member>
+        <member name="T:LfiDisplayCache">
+A data structure used for speeding up display of large images.
+User is not supposed to modify this data structure.
+To create this data structure, use Lfi_CreateDisplayCache.
+To destroy this data structure, use Lfi_DestroyDisplayCache.
+         
+</member>
+        <member name="T:LfiDisplayCacheOption">
+Controls the image quality of display cache in order to
+allow viewing large images on computers with insufficient memory
+
+</member>
+        <member name="T:LfiPaletteCopyMode">
+Controls whether the palette of the destination image will be updated
+as a result of copying pixels from a source image. It has no effect
+if the destination image's pixel format does not use palette.
+
+</member>
+        <member name="F:LfiPaletteRecalculate">
+The palette of the destination image will be changed 
+so that it will accomodate the result of the copy function. This option
+will require much more execution overhead but is guaranteed to succeed.
+
+</member>
+        <member name="F:LfiPaletteCopyFromDest">
+The destination image already contains a valid palette
+that shall not be modified by the copy function. The source pixels must be
+encoded using the existing destination palette.
+
+</member>
+        <member name="F:LfiPaletteCopyFromSource">
+The source palette will be copied to the destination.
+If the destination's palette cannot be modified, the function fails.
+
+</member>
+        <member name="F:LfiPaletteCopyIgnored">
+The index values of pixels are copied. However, the palettes of the 
+source and destination images are ignored. The destination's palette 
+is not modified.
+
+This mode is valid only when both Source and Destination are 8-bit
+or lower.
+
+After copying, a pixel which references the palette entry K in the 
+source image will become a pixel referencing the palette entry K in 
+the destination image.
+
+When converting from an indexed format with higher BPP to an indexed
+format with a lower BPP, source pixels which reference palette entries
+that cannot fit in the destination image will be changed to the 
+last entry of the palette.
+
+</member>
+        <member name="F:LfiBlendOption.disableDoubleRendering">
+Reserved. Must be false.
+</member>
+        <member name="F:LfiBlendOption.negateMask">
+If (a), the mask pixel values will be treated as transparency.
+If (b), the mask pixel values will be treated as opacity.
+</member>
+        <member name="T:LfiBlendOption">
+\brief Options for alpha-blending images.
+
+</member>
+        <member name="F:LfiAlphaMaskOption.inverted">
+Whether the mask values are to be treated as opacity or transparency.
+</member>
+        <member name="F:LfiAlphaMaskOption.distance">
+A threshold used to allow colors near the transparentColor to be treated
+as partially transparent (or partially opaque, if the inverted flag is 
+specified). Ignored for LfiAlphaMaskExtractChannel or 
+LfiAlphaMaskExactPixelValue modes.
+</member>
+        <member name="F:LfiAlphaMaskOption.transparentColor">
+The color to be recognized as fully transparent (or fully opaque, 
+if the inverted flag is specified)
+</member>
+        <member name="F:LfiAlphaMaskOption.alphaMaskMode">
+Method used to calculate the opacity values.
+</member>
+        <member name="T:LfiAlphaMaskOption">
+\brief Options for deriving a opacity mask given an image.
+
+</member>
+        <member name="T:LfiAlphaMaskMode">
+\brief Methods used to create a opacity mask for an image.
+
+</member>
+        <member name="F:LfiAlphaMaskHardDistance">
+Reserved. Do not use.
+</member>
+        <member name="F:LfiAlphaMaskSoftDistance">
+Reserved. Do not use.
+</member>
+        <member name="F:LfiAlphaMaskLinearDistance">
+Allows pixels whose color is similar to a reference color to be 
+treated as partially transparent. The distance is given by the
+Euclidean distance of the RGB triplet. When the distance is equal
+to the cutoff value, the pixel is treated as opaque.
+
+</member>
+        <member name="F:LfiAlphaMaskExactPixelValue">
+Reserved. Do not use.
+</member>
+        <member name="F:LfiAlphaMaskExtractChannel">
+Extracts the existing alpha channel of an image. If the image does 
+not have an alpha channel, LfWicUtil will return a mask that is
+filled with full opacity.When this mode is used, 
+LfiAlphaMaskOption::transparentColor and 
+LfiAlphaMaskOption::distance are ignored.
+
+</member>
+        <member name="T:LfiTransformOption">
+\brief Efficiently combines scale, crop and flip-rotate into one operation
+</member>
+        <member name="T:LfiTransformOrder">
+\brief Order of operations (scale, crop and flip-rotate) for LfiTransformOption
+</member>
+        <member name="F:LfiRotateOption.fillColor">
+Fill color when doing fine-rotation.
+</member>
+        <member name="F:LfiRotateOption.allowInterpolate">
+Currently ignored. (When doing fine rotation, 
+interpolation is always done.) 
+This field may be used in the future.
+</member>
+        <member name="F:LfiRotateOption.algorithm">
+Reserved. Must be zero.
+</member>
+        <member name="F:LfiRotateOption.allowResize">
+Applicable for fine-rotation only. Output image will 
+enlarged to fit all pixels
+</member>
+        <member name="T:LfiRotateOption">
+Options for rotation.
+
+</member>
+        <member name="F:LfiSaveOption.pCallbackInfo">
+Shared callback struct, which contains the callback function pointer.
+</member>
+        <member name="F:LfiSaveOption.bTiledTiff">
+(TIFF only) *** NOT recommended for general use. ***
+Create a tiled TIFF image. A Tiled TIFF image can be decoded
+more efficiently than normal TIFF images, however a number of third-party 
+image applications and operating systems do not handle such images.
+(Non-supporting third-party systems will simply refuse to open the image.
+</member>
+        <member name="F:LfiSaveOption.compressionEffort">
+(PNG only) Specifies how much effort should be expended on finding the best
+lossless compression mode on the image. Valid values from 0 to 100. 
+A value of 100 means the most time-consuming effort.
+</member>
+        <member name="F:LfiSaveOption.qualityPercent">
+(JPEG or TIFF_JPEG only) Quality factor. Valid values from 0 to 100. 
+This value is required when using JPEG or TIFF_JPEG. It is ignored 
+for other image formats.
+</member>
+        <member name="F:LfiSaveOption.bOverwrite">
+If the output file already exists, it will be truncated and overwritten
+with the image. Fails if the existing file cannot be opened for writing.
+Cannot be used with bAppend.
+</member>
+        <member name="F:LfiSaveOption.bAppend">
+When writing to a file or IStream that already contains a multi-page capable
+image (such as TIFF), setting this flag allows the new image to be appended
+to the file or IStream. However, if the existing content is not multi-page
+capable, an error is returned. Cannot be used with bOverwrite.
+</member>
+        <member name="T:LfiSaveOption">
+
+\attention Behaviors when using bAppend and bOverwrite flags:
+
+      initial content     append?     overwrite?   neither?
+  B1: not exist             ok           ok            ok
+  B2: zero-size             ok           ok            ok
+  B3: good tiff           append      overwrite    FILE_EXISTS
+  B4: good non-tiff     FILE_EXISTS   overwrite    FILE_EXISTS
+  B5: non-/bad-image     BAD_IMAGE    overwrite    FILE_EXISTS
+
+(#) FILE_EXISTS : HRESULT_FROM_WIN32(ERROR_FILE_EXISTS)
+    BAD_IMAGE   : WINCODEC_ERR_BADIMAGE
+
+</member>
+        <member name="F:LfiLoadOption.pCallbackInfo">
+Shared callback struct, which contains the callback function pointer.
+</member>
+        <member name="F:LfiLoadOption.loadAsTiledBitmap">
+Load image into a Tiled Bitmap. The internal memory of a tiled bitmap
+is allocated in multiple parts, which allows large images to be 
+handled more reliably when the system's free memory space is fragmented.
+</member>
+        <member name="F:LfiLoadOption.loadAsDIBBitmap">
+Convert the image to a DIB-compatible pixel format, and return the 
+image using a DIB-converitable IWICBitmap implementation.
+</member>
+        <member name="F:LfiLoadOption.autoPromotePalette">
+If the image contains a palette, automatically promote the image to a
+format that does not require a palette. The final format will depend on
+the other options that are set. Non-paletted images are not affected.
+
+When this option is not set, palettes images will be loaded as-is, and 
+will not be subject to any color conversion options.
+</member>
+        <member name="F:LfiLoadOption.loadColorAsRGB">
+If the image contains color values that is not in RGB colorspace, it will
+be converted into RGB colorspace with Red/Green/Blue byte ordering.
+</member>
+        <member name="F:LfiLoadOption.loadColorAsBGR">
+If the image contains color values that is not in BGR(RGB) colorspace, it will
+be converted into BGR(RGB) colorspace with Blue/Green/Red byte ordering.
+</member>
+        <member name="F:LfiLoadOption.loadGrayAsColor">
+Convert all grayscale and black-white images into color image. 
+Cannot be used with loadBlackWhiteAsGray or loadColorAsGray.
+The color format will be either BGR, if loadColorAsBGR is specified,
+or RGB, if loadColorAsRGB is specified.
+</member>
+        <member name="F:LfiLoadOption.loadColorAsGray">
+Convert all color images into 8-bit grayscale.
+</member>
+        <member name="F:LfiLoadOption.loadBlackWhiteAsGray">
+When the image is black and white, LoadImage will promote the image to 
+8-bit grayscale.
+</member>
+        <member name="F:LfiLoadOption.autoDetectGray">
+When loading an image, a full-image pixel scan will be performed to determine
+if the image contains only grayscale pixels. If so, LoadImage will return 
+a grayscale image regardless of original format. 
+
+If the image only contains black and white, and the loadBlackWhiteAsGray flag 
+is not set, a black and white image will be returned.
+
+This flag cannot be used with loadColorAsGray or loadGrayAsColor.
+
+</member>
+        <member name="T:LfiLoadOption">
+Extra options for loading an image. When all options are turned off,
+LoadImage will use its default handling method for all image formats.
+
+</member>
+        <member name="T:LfiPaletteInfo">
+\brief  Image palette.
+\see  LfiImageInfo
+
+</member>
+        <member name="T:LfiImageInfo">
+\brief  Image information.
+\see  LfiFileInfo, LfiPaletteInfo
+
+</member>
+        <member name="T:LfiFileInfo">
+\brief   File information. 
+\see  LfiImageInfo
+
+</member>
+        <member name="T:LfWicFileFormat">
+\brief  Image encoding method. 
+
+\details Used for both reading and writing images. 
+
+\details
+This is returned from GetFileInfo if the file is a Multi-page TIFF.
+The compression method for each page in a multi-page TIFF
+may be different. Therefore, caller must call GetImageInfo
+on each page.
+
+Developer Note: always keep Utility::IsMultiFrameFormat up-to-date.
+
+</member>
+        <member name="F:LfWic_Format_BMP">
+These compression methods can be used in SaveImage.
+</member>
+        <member name="F:LfWic_Format_UNSPECIFIED">
+The type of the image is not known.
+</member>
+        <member name="F:LfWic_Format_IN_MEMORY">
+The image is already in memory and was not associated with a file type.
+</member>
+        <member name="F:LfWic_Format_IN_MEMORY_DIB">
+The image is loaded into memory as a DIB wrapped by an IWICBitmap.
+This should not be confused with LfWic_Format_DIB.
+</member>
+        <member name="F:LFWICKERNEL.LfiCallbackInfo.pvClientData">
+A field that can be set by the caller before the API operation.
+The library will not modify or read the value of this field.
+The caller is responsible for managing this field.
+Leave zero if not used.
+</member>
+        <member name="F:LFWICKERNEL.LfiCallbackInfo.progressType">
+Progress information that can be passed back to the caller.
+
+</member>
+        <member name="F:LFWICKERNEL.LfiCallbackInfo.uStructSize">
+Must be set to the size of this struct in byte.
+</member>
+        <member name="T:LFWICKERNEL.LfiCallbackInfo">
+A shared data structure for specifying a callback function for API operation.
+This same structure is used for communication during the callback invocation.
+
+</member>
+        <member name="T:LFWICKERNEL.LfiCallbackReason">
+Flag indicating the reason for the invocation of the callback function.
+Used in LfiCallbackInfo.
+
+\Note   The library is guaranteed to match every call to 
+        LfiCallbackReason_Start with a LfiCallbackReason_Stop.
+
+</member>
+        <member name="F:LfiCallbackReason_Progress">
+The API operation is in progress. The LfiCallbackInfo contains
+additional information.
+</member>
+        <member name="F:LfiCallbackReason_Stop">
+The API operation has stopped. 
+  - The library is calling the callback function for the last time, 
+    after which the library will cease referencing the LfiCallbackInfo 
+    structure.
+  - Optionally, the operation may also return a LfiCallbackProgress_HRESULT
+    together with the LfiCallbackReason_Stop reason. In this case, 
+    dwProgress will contain the HRESULT of the API operation. Note that 
+    the API is not required to do so.
+</member>
+        <member name="F:LfiCallbackReason_Start">
+The library is calling the callback function for the first time.
+</member>
+        <member name="M:Laserfiche.Imaging.LfiBorderAdjustedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Int32,System.Int32,System.Int32,System.Int32,System.Windows.Media.Color)">
+            <summary>Initializes an <c>LfiBorderAdjustedBitmap</c> instance from a source
+bitmap.  Positive values for the border amount will result in pixels being added;
+a negative amount will remove pixels.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="left">The number of pixels to add (positive) or remove (negative) from
+the left border.</param>
+            <param name="top">The number of pixels to add (positive) or remove (negative) from
+the top border.</param>
+            <param name="right">The number of pixels to add (positive) or remove (negative) from
+the right border.</param>
+            <param name="bottom">The number of pixels to add (positive) or remove (negative) from
+the bottom border.</param>
+            <param name="fillColor">The color to fill in new border pixels.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBorderAdjustedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>Initializes an <c>LfiBorderAdjustedBitmap</c> instance from a source
+bitmap.  Positive values for the border amount will result in pixels being added;
+a negative amount will remove pixels.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="left">The number of pixels to add (positive) or remove (negative) from
+the left border.</param>
+            <param name="top">The number of pixels to add (positive) or remove (negative) from
+the top border.</param>
+            <param name="right">The number of pixels to add (positive) or remove (negative) from
+the right border.</param>
+            <param name="bottom">The number of pixels to add (positive) or remove (negative) from
+the bottom border.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBorderAdjustedBitmap">
+            <summary>A bitmap with borders adjusted from a source bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiAlphaMaskBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Windows.Media.Color,System.Int32)">
+            <summary>Initializes an instance of <c>LfiAlphaMaskBitmap</c> by generating
+an alpha mask from the <paramref name="source" /> bitmap by setting pixels
+to have a zero alpha if they are within a specified distance from
+the chroma key.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="transparentColor">The value to use as the chroma key.</param>
+            <param name="distance">Pixels with color values that have a distance
+less than or equal to this from <paramref name="transparentColor" /> will
+have zero alpha.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiAlphaMaskBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource)">
+            <summary>Initializes an instance of <c>LfiAlphaMaskBitmap</c> by generating
+an alpha mask from the <paramref name="source" /> bitmap by extracting the
+existing alpha channel.</summary>
+            <param name="source">The source bitmap.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiAlphaMaskBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,Laserfiche.Imaging.AlphaMaskMode,System.Windows.Media.Color,System.Int32)">
+            <summary>Initializes an instance of <c>LfiAlphaMaskBitmap</c> by generating
+an alpha mask from the <paramref name="source" /> bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="alphaMaskMode">Specifies the algorithm used to determine the alpha
+channel.</param>
+            <param name="transparentColor">The value to use as the chroma key, if
+<paramref name="alphaMaskMode" /> is <c>LinearDistance</c>.</param>
+            <param name="distance">Pixels with color values that have a distance
+less than or equal to this from <paramref name="transparentColor" /> will
+have zero alpha.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiAlphaMaskBitmap">
+            <summary>Represents a process that derives a new monochrome bitmap from an
+existing <c>LfiBitmapSource</c> instance, where the intensity of the bitmap
+represents an alpha value derived from the source.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiImageConverter.ConvertFile(System.String,System.Int32,System.String,Laserfiche.Imaging.LfiContainerFormat,Laserfiche.Imaging.LfiBitmapCodec)">
+            <summary>Converts an image in one format to another.</summary>
+            <param name="sourcePath">A path to the file containing the source image.</param>
+            <param name="frameIndex">The frame index of the source image, to be used if
+<paramref name="sourcePath" /> refers to a multi-page image file.</param>
+            <param name="outPath">The path to the destination file.  It will be created if
+it doesn't exist.</param>
+            <param name="format">A member of the <c>LfiContainerFormat</c> enumeration
+specifying the container format of the destination file or stream.</param>
+            <param name="codec">The image codec to encode the source image as in the
+destination.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiImageConverter.ConvertFile(System.IO.Stream,System.Int32,System.IO.Stream,Laserfiche.Imaging.LfiContainerFormat,Laserfiche.Imaging.LfiBitmapCodec)">
+            <summary>Converts an image in one format to another.</summary>
+            <param name="sourceStream">A <c>Stream</c> instance representing the data of the
+source image.</param>
+            <param name="frameIndex">The frame index of the source image, to be used if
+<paramref name="sourceStream" /> refers to a multi-page image file.</param>
+            <param name="format">A member of the <c>LfiContainerFormat</c> enumeration
+specifying the container format of the destination file or stream.</param>
+            <param name="outStream">The <c>Stream</c> instance to write the output data to.</param>
+            <param name="codec">The image codec to encode the source image as in the
+destination.</param>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiImageConverter.Append">
+            <summary>Gets or sets a boolean indicating if images should be appended to an
+existing file, if one is present, if the image container format supports multiple
+pages.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiImageConverter.Overwrite">
+            <summary>Gets or sets a boolean indicating if an existing file can be overwritten,
+if one is present.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiImageConverter.Quality">
+            <summary>Gets or sets the quality level or factor to use when compressing
+images using a lossy compression algorithm.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiImageConverter.#ctor">
+            <summary>Initializes an instance of <c>LfiImageConverter</c>.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiImageConverter">
+            <summary>Provides the ability to convert image files from one format to another
+efficiently.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiInvertedColorBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource)">
+            <summary>Initializes an <c>LfiInvertedColorBitmap</c> instance from a
+source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiInvertedColorBitmap">
+            <summary>A bitmap that is derived from inverting the colors of a source bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiGrayscaleThresholdBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Int32)">
+            <summary>Initializes an instance of <c>LfiGrayscaleThresholdBitmap</c> from
+a source bitmap and specified intesity threshold.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="threshold">The minimum intensity threshold for a pixel to be assigned
+a white or "on" value.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiGrayscaleThresholdBitmap">
+            <summary>A bitonal bitmap generated by applying a thresholding process on a source
+grayscale bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiFormatConvertedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Windows.Media.PixelFormat,System.Windows.Media.Color)">
+            <summary>Initializes an instance of <c>LfiFormatConvertedBitmap</c> from an existing
+bitmap and a target pixel format.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="newFormat">A member of the <c>PixelFormat</c> enumeration specifying the
+pixel format of the new bitmap.</param>
+            <param name="chromaKey">The color to treat as being transparent if the specified pixel
+format contains an alpha channel.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiFormatConvertedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Windows.Media.PixelFormat)">
+            <summary>Initializes an instance of <c>LfiFormatConvertedBitmap</c> from an existing
+bitmap and a target pixel format.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="newFormat">A member of the <c>PixelFormat</c> enumeration specifying the
+pixel format of the new bitmap.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiFormatConvertedBitmap">
+            <summary>A bitmap that is the result of applying a pixel format conversion to
+an existing bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiCroppedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Windows.Rect)">
+            <summary>Initializes an <c>LfiCroppedBitmap</c> from a source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="sourceRect">The rectangular region in the source bitmap to preserve
+in the new bitmap.  Anything outside this region is cropped.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiCroppedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Windows.Int32Rect)">
+            <summary>Initializes an <c>LfiCroppedBitmap</c> from a source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="sourceRect">The rectangular region in the source bitmap to preserve
+in the new bitmap.  Anything outside this region is cropped.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiCroppedBitmap">
+            <summary>A bitmap that is cropped from a source bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.FrameCollection.#ctor(Laserfiche.Imaging.LfiBitmapDecoder,System.Int32)">
+            <summary>Initializes a <c>FrameCollection</c> instance.</summary>
+            <param name="decoder">The bitmap decoder that will be used to decompress frames into bitmaps.</param>
+            <param name="frameCount">The number of frames in the collection.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.FrameCollection">
+            <summary>Represents a collection of image frames, each an instance of <c>LfiBitmapFrame</c>,
+as in a multi-page image file.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiRotatedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Double,Laserfiche.Imaging.LfiRotationOptions)">
+            <summary>Initializes a new <c>LfiRotatedBitmap</c> with the specified angle
+of rotation and source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="rotationAngle">The rotation angle, in degrees.</param>
+            <param name="options">Options specifying how the rotation operation should
+be processed.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiRotatedBitmap">
+            <summary>A bitmap that is derived by rotating an existing bitmap.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapDecoder.ContainerFormat">
+            <summary>Gets a member of the <c>LfiContainerFormat</c> enumeration that
+identifies the image's container format.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapDecoder.Frames">
+            <summary>Gets the collection of bitmap frames that were decoded.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapDecoder.#ctor(System.Byte[],System.Windows.Media.Imaging.BitmapCreateOptions)">
+            <summary>Initializes an instance of <c>LfiBitmapDecoder</c> by decoding
+the contents of a byte array.</summary>
+            <param name="bitmapBuffer">A reference to the byte array containing the image data.</param>
+            <param name="createOptions">Options for how the image should be decoded.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapDecoder.#ctor(System.Uri,System.Windows.Media.Imaging.BitmapCreateOptions)">
+            <summary>Initializes an instance of <c>LfiBitmapDecoder</c> by opening the
+resource specified by a URI and reading and decoding its contents.</summary>
+            <param name="bitmapUri">A <c>Uri</c> instance that specifies the URI which
+identifies the resource to open.</param>
+            <param name="createOptions">Options for how the image should be decoded.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapDecoder.#ctor(System.IO.Stream,System.Windows.Media.Imaging.BitmapCreateOptions)">
+            <summary>Initializes an instance of <c>LfiBitmapDecoder</c> by reading and
+decoding the contents of a <c>Stream</c>.</summary>
+            <param name="bitmapStream">The <c>Stream</c> instance to read from.</param>
+            <param name="createOptions">Options for how the image should be decoded.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBitmapDecoder">
+            <summary>Provides the ability to decompress images into a collection
+of <c>LfiBitmapFrame</c> instances, representing uncompressed bitmaps.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapFrame.DecodeBitmap">
+            <summary>Decodes the frame and returns the uncompressed source bitmap.</summary>
+            <returns>An <c>LfiBitmapSource</c> instance representing the uncompressed
+source bitmap.</returns>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.Decoder">
+            <summary>Gets an instance of <c>LfiBitmapDecoder</c> that can decode images
+in the specified codec.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.FrameIndex">
+            <summary>Gets the zero-based index of the frame in the frame collection.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.Codec">
+            <summary>Gets or sets a member of the <c>LfiBitmapCodec</c> enumeration that
+specifies the image codec that will encode the source bitmap.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.Palette">
+            <summary>Gets a reference to the bitmap palette, if using an indexed color
+pixel format.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.Format">
+            <summary>Gets a member of the <c>PixelFormat</c> enumeration which describes how
+the pixels of the uncompressed bitmap are laid out in memory.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.Height">
+            <summary>Gets the height of the bitmap in logical, or device independent pixels.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.Width">
+            <summary>Gets the width of the bitmap in logical, or device independent pixels.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.DpiY">
+            <summary>Gets the vertical resolution of the image in dots per inch (DPI).</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.DpiX">
+            <summary>Gets the horizontal resolution of the image in dots per inch (DPI).</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.PixelHeight">
+            <summary>Gets the height of the bitmap in pixels.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapFrame.PixelWidth">
+            <summary>Gets the width of the bitmap in pixels.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapFrame.#ctor(Laserfiche.Imaging.LfiBitmapSource,Laserfiche.Imaging.LfiBitmapCodec)">
+            <summary>Initializes a new instance of <c>LfiBitmapFrame</c> that will encode
+the bitmap specified by <paramref name="bitmap" />.</summary>
+            <param name="bitmap">An <c>LfiBitmapSource</c> instance representing the bitmap
+to encode.</param>
+            <param name="codec">A member of the <c>LfiBitmapCodec</c> enumeration specifying
+the image codec.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapFrame.#ctor(Laserfiche.Imaging.LfiBitmapSource)">
+            <summary>Initializes a new instance of <c>LfiBitmapFrame</c> that will encode
+the bitmap specified by <paramref name="bitmap" />.</summary>
+            <param name="bitmap">An <c>LfiBitmapSource</c> instance representing the bitmap
+to encode.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBitmapFrame">
+            <summary>Represents an image in an image file stream.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBitmapCodec">
+            <summary>An enumeration of still-image codecs supported by LaserficheImaging.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Pcx">
+            <summary>ZSoft PCX, single plane, RLE compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.JpegXR">
+            <summary>ISO/IEC 29199-2 JPEG-XR, also known as Windows Media Photo and HD Photo</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Jpeg2000">
+            <summary>ISO/IEC 15444 JPEG 2000</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Ico">
+            <summary>Windows icon bitmap (ICO)</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Gif">
+            <summary>Graphics Interchange Format (GIF)</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Png">
+            <summary>Portable Network Graphics (PNG)</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Bmp">
+            <summary>Uncompressed Windows BMP</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Jpeg">
+            <summary>JPEG compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.PackBits">
+            <summary>TIFF PackBits lossless compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.TiffRaw">
+            <summary>TIFF Raw, no compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.TiffFlate">
+            <summary>TIFF Flate lossless compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.TiffLzw">
+            <summary>TIFF-LZW lossless compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.FaxGroup4">
+            <summary>ITU-T (CCITT) T.6 Group IV fax compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.FaxGroup3">
+            <summary>ITU-T (CCITT) T.4 Group III fax compression</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiBitmapCodec.Unknown">
+            <summary>An unknown or unspecified codec.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiContainerFormat">
+            <summary>An enumeration of image container formats supported by LaserficheImaging.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Pcx">
+            <summary>ZSoft's PC Paintbrush (PCX) format: An obsolete single-page
+image format.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.JpegXR">
+            <summary>JPEG XR (formerly Windows Media Photo and HD Photo) format</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Jpx">
+            <summary>ISO/IEC 15444-2 standard (JPX) format, used by JPEG 2000</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Ico">
+            <summary>Windows Icon file (ICO) format</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Gif">
+            <summary>Graphics Interchange Format (GIF): An older image format originating
+from Compuserve.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Png">
+            <summary>Portable Network Graphics (PNG) format: supports a variety of RGB-based
+pixel formats with lossless compression.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Bmp">
+            <summary>Windows bitmap (BMP) format: supports a single page image in a variety of
+RGB pixel formats with no compression or lossless compression.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Jpeg">
+            <summary>Joint Photographic Experts Group (JPEG) format: supports a single page
+8 bpp grayscale or 24 bpp RGB color image with lossy compression.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Tiff">
+            <summary>Tagged image file format (TIFF): supports multiple pages and many options.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiContainerFormat.Unknown">
+            <summary>Unknown image format.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.Unlock">
+            <summary>Releases a lock acquired by the <c>Lock</c> method.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.Lock">
+            <summary>Locks the underlying bitmap so the pixel data buffer becomes accessible.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.DrawHighlights(System.Windows.Int32Rect[],System.Windows.Media.Color[])">
+            <summary>Draws a set of rectangular highlights, suitable for use as Laserfiche
+highlights, on the bitmap.</summary>
+            <param name="bounds">An array of coordinates of highlight rectangles to draw.</param>
+            <param name="highlightColors">An array of highlight colors, one for each rectangle.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.DrawHighlight(System.Windows.Int32Rect[],System.Windows.Media.Color)">
+            <summary>Draws a rectangular highlight, suitable for use as a Laserfiche highlight,
+on the bitmap.</summary>
+            <param name="bounds">An array of coordinates of highlight rectangles to draw.</param>
+            <param name="highlightColor">The highlight color.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.DrawHighlight(System.Windows.Int32Rect,System.Windows.Media.Color)">
+            <summary>Draws a rectangular highlight, suitable for use as a Laserfiche highlight,
+on the bitmap.</summary>
+            <param name="bounds">The coordinates of the highlight boundary to draw.</param>
+            <param name="highlightColor">The highlight color.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.FillRectangle(System.Windows.Int32Rect,System.Windows.Media.Color)">
+            <summary>Draws a rectangle with a solid color fill on the bitmap.</summary>
+            <param name="bounds">The bounds of the rectangle to draw on the bitmap.</param>
+            <param name="fillColor">The color that will fill the interior of the rectangle.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.WritePixels(System.Windows.Int32Rect,Laserfiche.Imaging.LfiBitmapSource,System.Int32,System.Int32)">
+            <summary>Copies pixel data from an <c>LfiBitmapSource</c> instance into the
+bitmap.</summary>
+            <param name="sourceRect">The coordinates of the rectangular region in the source
+pxel source to copy over.</param>
+            <param name="source">An <c>LfiBitmapSource</c> that will be the source of the pixel
+data to copy.</param>
+            <param name="destinationX">The horizontal or X-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+            <param name="destinationY">The vertical or Y-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.WritePixels(System.Windows.Int32Rect,System.IntPtr,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the provided buffer into the bitmap.</summary>
+            <param name="sourceRect">The coordinates of the rectangular region in the source bitmap
+to copy over.</param>
+            <param name="sourceBuffer">An array that contains pixel data to be copied.</param>
+            <param name="sourceBufferStride">The scanline stride of the source bitmap, i.e., the
+byte offset between corresponding pixels on adjacent scanlines.</param>
+            <param name="destinationX">The horizontal or X-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+            <param name="destinationY">The vertical or Y-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.WritePixels(System.Windows.Int32Rect,System.Array,System.Int32,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the provided array into the bitmap.</summary>
+            <param name="sourceRect">The coordinates of the rectangular region in the source bitmap
+to copy over.</param>
+            <param name="sourceBuffer">An array that contains pixel data to be copied.</param>
+            <param name="sourceBufferStride">The scanline stride of the source bitmap, i.e., the
+byte offset between corresponding pixels on adjacent scanlines.</param>
+            <param name="destinationX">The horizontal or X-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+            <param name="destinationY">The vertical or Y-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.WritePixels(System.Windows.Int32Rect,System.IntPtr,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the provided buffer into the bitmap.</summary>
+            <param name="sourceRect">The coordinates of the rectangular region in the bitmap
+to update.</param>
+            <param name="buffer">A pointer to the start of the buffer containing the bitmap to
+copy data from.</param>
+            <param name="bufferSize">The length of the source buffer, in bytes.</param>
+            <param name="stride">The scanline stride of the source bitmap, i.e., the byte offset
+between corresponding pixels on adjacent scanlines.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.WritePixels(System.Windows.Int32Rect,System.Array,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the provided array into the bitmap.</summary>
+            <param name="sourceRect">The coordinates of the rectangular region in the bitmap
+to update.</param>
+            <param name="pixels">An array that contains pixel data to be copied.</param>
+            <param name="stride">The scanline stride of the source bitmap, i.e., the byte offset
+between corresponding pixels on adjacent scanlines.</param>
+            <param name="offset">The offset into the array where the pixel data for the source
+bitmap is stored.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.CopyPixels(System.Windows.Int32Rect,System.IntPtr,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the bitmap into a buffer.</summary>
+            <param name="sourceRect">The coordinates of a rectangular region in the bitmap
+to copy out to a buffer.</param>
+            <param name="buffer">The pointer to the buffer where the pixel data will be
+copied to.</param>
+            <param name="bufferSize">The length of the buffer, in bytes.</param>
+            <param name="stride">The scanline stride, i.e., the byte offset between corresponding
+pixels on adjacent scanlines.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.CopyPixels(System.Array,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the bitmap into the supplied array.</summary>
+            <param name="pixels">The array that the pixel data will be copied to.</param>
+            <param name="stride">The scanline stride, i.e., the byte offset between corresponding
+pixels on adjacent scanlines.</param>
+            <param name="offset">The offset in <paramref name="pixels" /> to begin storing data
+at.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.CopyPixels(System.Windows.Int32Rect,System.Array,System.Int32,System.Int32)">
+            <summary>Copies pixel data from the bitmap into the supplied array.</summary>
+            <param name="sourceRect">The coordinates of a rectangular region in the bitmap
+to copy out to an array.</param>
+            <param name="pixels">The array that the pixel data will be copied to.</param>
+            <param name="stride">The scanline stride, i.e., the byte offset between corresponding
+pixels on adjacent scanlines.</param>
+            <param name="offset">The offset in <paramref name="pixels" /> to begin storing data
+at.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.BlendPixels(System.Windows.Int32Rect,Laserfiche.Imaging.LfiBitmapSource,System.Int32,System.Int32,Laserfiche.Imaging.LfiBitmapSource,System.Int32,System.Int32,Laserfiche.Imaging.AlphaBlendOptions)">
+            <summary>Alpha-blends pixels from an <c>LfiBitmapSource</c> instance into the
+bitmap.</summary>
+            <param name="sourceRect">The rectangular region in the set of source pixels to
+blend.</param>
+            <param name="source">An <c>LfiBitmapSource</c> instance representing the set of
+pixels to blend in.</param>
+            <param name="mask">A mask bitmap that will be treated as an alpha channel of
+the source pixels when blending.</param>
+            <param name="destinationX">The horizontal or X-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+            <param name="destinationY">The vertical or Y-axis coordinate of the upper-left
+pixel in the rectangular region in the bitmap to update.</param>
+            <param name="options">Options that control how the alpha blending operation
+will be processed.</param>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiWriteableBitmap.Stride">
+            <summary>Gets the offset between corresponding pixels in two adjacent scanlines,
+in bytes.</summary>
+            <remarks>The bitmap must be locked by calling <c>Lock</c> to make the buffer
+stride available.</remarks>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiWriteableBitmap.Palette">
+            <summary>Gets or sets the palette that will be used for the bitmap, if an
+indexed pixel format is used.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiWriteableBitmap.BufferSize">
+            <summary>Gets the length of the bitmap buffer, in bytes.</summary>
+            <remarks>The bitmap must be locked by calling <c>Lock</c> to make the buffer
+size available.</remarks>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiWriteableBitmap.Buffer">
+            <summary>Gets a pointer to the start of the bitmap buffer.</summary>
+            <remarks>The bitmap must be locked by calling <c>Lock</c> to make the buffer
+pointer available.</remarks>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiWriteableBitmap.DpiY">
+            <summary>Gets or sets the vertical resolution of the image in dots per inch
+(DPI).</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiWriteableBitmap.DpiX">
+            <summary>Gets or sets the horizontal resolution of the image in dots per inch
+(DPI).</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.FromUnknown(System.IntPtr)">
+            <summary>For internal Laserfiche use.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.FromDib(System.IntPtr,System.Int32)">
+            <summary>Returns a new instance of <c>LfiWriteableBitmap</c> constructed by reading
+data from a Windows device independent bitmap (DIB).</summary>
+            <param name="buffer">A pointer to a DIB, namely to the start of the
+DIB's BITMAPINFO structure.</param>
+            <param name="bufferSize">The length of the buffer, in bytes.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.Windows.Media.Imaging.BitmapSource)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by copying pixels from
+a <c>BitmapSource</c> instance.</summary>
+            <param name="bitmapSource">The pixel source.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.Int32,System.Int32,System.Double,System.Double,System.Windows.Media.PixelFormat,System.Windows.Media.Imaging.BitmapPalette)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by creating a new bitmap
+of the specified size in the specified pixel format.</summary>
+            <param name="pixelWidth">The width of the new bitmap, in pixels.</param>
+            <param name="pixelHeight">The height of the new bitmap, in pixels.</param>
+            <param name="dpiX">The horizontal resolution, in dots per inch (DPI).</param>
+            <param name="dpiY">The vertical resolution, in dots per inch (DPI).</param>
+            <param name="pixelFormat">A member of the <c>PixelFormat</c> enumeration specifying
+the pixel format of the new bitmap.</param>
+            <param name="palette">A reference to a <c>BitmapPalette</c> instance representing
+the bitmap's palette, if using an indexed pixel format.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.IntPtr,System.Int32,System.Int32)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+data in the specified buffer.</summary>
+            <param name="buffer">A pointer to the beginning of the buffer containing the image
+data.</param>
+            <param name="bufferSize">The length of the buffer, in bytes.</param>
+            <param name="frameIndex">The zero-based index of the frame in the image container
+to decode.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.IntPtr,System.Int32)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+data in the specified buffer.</summary>
+            <param name="buffer">A pointer to the beginning of the buffer containing the image
+data.</param>
+            <param name="bufferSize">The length of the buffer, in bytes.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.Byte[],System.Int32)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+data in the specified byte array.</summary>
+            <param name="buffer">The byte array containing the image data.</param>
+            <param name="frameIndex">The zero-based index of the frame in the image container
+to decode.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.Byte[])">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+data in the specified byte array.</summary>
+            <param name="buffer">The byte array containing the image data.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.IO.Stream,System.Int32)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+data in the specified stream.</summary>
+            <param name="streamSource">A <c>Stream</c> instance representing the image data.</param>
+            <param name="frameIndex">The zero-based index of the frame in the image container
+to decode.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.IO.Stream)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+data in the specified stream.</summary>
+            <param name="streamSource">A <c>Stream</c> instance representing the image data.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.Uri,System.Int32)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+resource at the specified URI.</summary>
+            <param name="uriSource">The location of an image file to decode.</param>
+            <param name="frameIndex">The zero-based index of the frame in the image container
+to decode.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiWriteableBitmap.#ctor(System.Uri)">
+            <summary>Initializes an instance of <c>LfiWriteableBitmap</c> by decoding the image
+resource at the specified URI.</summary>
+            <param name="uriSource">The location of an image file to decode.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiWriteableBitmap">
+            <summary>Represents a rectangular bitmap in a specified pixel format that
+can be modified.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiFlippedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Int32,Laserfiche.Imaging.LfiFlipOptions)">
+            <summary>Initializes an instance of <c>LfiFlippedBitmap</c> from a source bitmap
+with the specified options.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="rotationAngle">The amount to rotate the bitmap (in degrees) before
+flipping: must be a multiple of 90.</param>
+            <param name="options">Specify how to flip the bitmap.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiFlippedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,Laserfiche.Imaging.LfiFlipOptions)">
+            <summary>Initializes an instance of <c>LfiFlippedBitmap</c> from a source bitmap
+with the specified options.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="options">Specify how to flip the bitmap.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiFlippedBitmap">
+            <summary>A bitmap that is a flipped version of a source bitmap.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiRotationOptions">
+            <summary>An set of option flags for controlling how <c>LfiRotatedBitmap</c> will
+perform its transformation.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiRotationOptions.AllowInterpolation">
+            <summary>Interoplate pixels where appropriate to achieve a higher
+quality result.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiRotationOptions.AllowResize">
+            <summary>Allow the image to be resized so that nothing is cropped
+after rotation.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiRotationOptions.None">
+            <summary>Use the default behavior.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiResizeOptions">
+            <summary>A set of option flags which control how <c>LfiResizedBitmap</c> performs
+its transformation.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiResizeOptions.AllowInterpolation">
+            <summary>Interpolate pixels where necessary to increase image quality.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiResizeOptions.None">
+            <summary>No option selected.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiFlipOptions">
+            <summary>A enumeration of options that control how <c>LfiFlippedBitmap</c>
+works.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiFlipOptions.FlipVertical">
+            <summary>Flip the image vertically, i.e., along its horizontal axis.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiFlipOptions.FlipHorizontal">
+            <summary>Flip the image horizontally, i.e., along its vertical axis.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.LfiFlipOptions.None">
+            <summary>No option specified -- do not modify the image.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.AlphaMaskMode">
+            <summary>An enumeration of alpha mask generation modes.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.AlphaMaskMode.LinearDistance">
+            <summary>Calculate the alpha value by measuring the distance from the
+chroma key for each pixel's color.</summary>
+        </member>
+        <member name="F:Laserfiche.Imaging.AlphaMaskMode.ExtractChannel">
+            <summary>Extract the existing alpha channel in the source image.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.AlphaBlendOptions.DisableDoubleRendering">
+            <summary>Gets or sets a boolean indicating if double-rendering should be
+disabled.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.AlphaBlendOptions.NegateMask">
+            <summary>Gets or sets a boolean indicating if the alpha value of the supplied
+alpha mask should be flipped.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.AlphaBlendOptions">
+            <summary>A set of options that control how <c>LfiWriteableBitmap.BlendPixels</c> will
+blend pixels.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LaserficheImagingException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Initializes an instance of <c>LaserficheImagingException</c> from
+serialized data from another instance of <c>LaserficheImagingException</c>.</summary>
+            <param name="info">The data to deserialize.</param>
+            <param name="context">Additional serialization context to use when deserializing.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LaserficheImagingException.#ctor(System.String,System.Int32)">
+            <summary>Initializes an instance of <c>LaserficheImagingException</c> with a
+specified message and error code or HRESULT.</summary>
+            <param name="message">The message to store in the exception object.</param>
+            <param name="errorCode">The error code that indicates the error type.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LaserficheImagingException.#ctor(System.String,System.Exception)">
+            <summary>Initializes an instance of <c>LaserficheImagingException</c> with a
+specified message and a reference to an inner exception instance.</summary>
+            <param name="message">The message to store in the exception object.</param>
+            <param name="innerException">The inner exception instance.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LaserficheImagingException.#ctor(System.String)">
+            <summary>Initializes an instance of <c>LaserficheImagingException</c> with a
+specified message.</summary>
+            <param name="message">The message to store in the exception object.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LaserficheImagingException.#ctor">
+            <summary>Initializes an instance of <c>LaserficheImagingException</c>.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LaserficheImagingException">
+            <summary>Represents an error that has occurred in the LaserficheImaging library.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBrightnessContrastAdjustedBitmap.#ctor(Laserfiche.Imaging.LfiBitmapSource,System.Double,System.Double)">
+            <summary>Initializes an <c>LfiBrightnessContrastAdjustedBitmap</c> instance from
+a source bitmap.</summary>
+            <param name="source">The source bitmap.</param>
+            <param name="brightnessAdj">The amount to adjust the brightness by.  Must be in the
+range [-3.0, 3.0].  A value of 0 means no change.</param>
+            <param name="contrastAdj">The amount to adjust the contrast by.  Must be in the
+range [-3.0, 3.0].  A value of 0 means no change.</param>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBrightnessContrastAdjustedBitmap">
+            <summary>A bitmap that has its brightness and/or contrast adjusted from a
+source bitmap.</summary>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapSource.CopyPixels(System.Windows.Int32Rect,System.IntPtr,System.Int32,System.Int32)">
+            <summary>Copies the bitmap data to a buffer.</summary>
+            <param name="buffer">The destination buffer that will receive the pixel data.
+The pixel format is preserved.</param>
+            <param name="bufferSize">The length of the buffer, in bytes.</param>
+            <param name="stride">The row stride of the destination, in bytes.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapSource.CopyPixels(System.Array,System.Int32,System.Int32)">
+            <summary>Copies the bitmap data to an array.</summary>
+            <param name="pixels">The destination array that will receive the pixel data.
+The pixel format is preserved.</param>
+            <param name="stride">The row stride of the destination, in bytes.</param>
+            <param name="offset">The offset into the destination array to begin writing data.</param>
+        </member>
+        <member name="M:Laserfiche.Imaging.LfiBitmapSource.CopyPixels(System.Windows.Int32Rect,System.Array,System.Int32,System.Int32)">
+            <summary>Copies the specified part of the bitmap data to an array.</summary>
+            <param name="sourceRect">The coordinates of the bounding rectangle in the bitmap
+to copy.</param>
+            <param name="pixels">The destination array that will receive the pixel data.
+The pixel format is preserved.</param>
+            <param name="stride">The row stride of the destination, in bytes.</param>
+            <param name="offset">The offset into the destination array to begin writing data.</param>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapSource.Palette">
+            <summary>Gets a reference to the bitmap palette, if using an indexed color
+pixel format.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapSource.DpiY">
+            <summary>Gets the vertical resolution of the image in dots per inch (DPI).</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapSource.DpiX">
+            <summary>Gets the horizontal resolution of the image in dots per inch (DPI).</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapSource.PixelHeight">
+            <summary>Gets the height of the bitmap in pixels.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapSource.PixelWidth">
+            <summary>Gets the width of the bitmap in pixels.</summary>
+        </member>
+        <member name="P:Laserfiche.Imaging.LfiBitmapSource.Format">
+            <summary>Gets a member of the <c>PixelFormat</c> enumeration which describes how
+the pixels of the uncompressed bitmap are laid out in memory.</summary>
+        </member>
+        <member name="T:Laserfiche.Imaging.LfiBitmapSource">
+            <summary>Represents a rectangular set of pixels in an imaging pipeline.</summary>
+        </member>
+    </members>
+</doc>

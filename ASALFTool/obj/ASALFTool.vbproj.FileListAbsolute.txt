@@ -1,0 +1,28 @@
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.ResolveComReference.cache
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\Interop.LFSO83Lib.dll
+C:\Documents and Settings\ignacio.perez\My Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\Interop.LFSO83Lib.dll
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb

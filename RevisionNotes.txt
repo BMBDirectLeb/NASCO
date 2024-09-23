@@ -1,0 +1,24 @@
+Implementation notes:
+Register LFImageEnable80.dll
+Update Param.ini
+Tool should be placed on C:\Laserfiche\ASALFTool\ASALFTool.exe
+
+
+
+
+25-May-2011 by IPA
+First tool development
+To create documents in LF from their Insurance system
+Replaces old integration embedded into their Oracle application
+
+6-Mars-2012 by IPA
+Remove extra windows, only leave 1
+Close LF using nircmd when finished
+
+
+30-Jul-2013 vy IPA
+Updated to v83
+
+
+19-June-2018
+update the tool to allow the configuration of additional document types by creating a new DocType.ini file under a "DocumentTypes" folder "C:\Laserfiche\ASALFTool\DocumentTypes\DocType.ini" where DocType represent the first Argument sent from Oracle.

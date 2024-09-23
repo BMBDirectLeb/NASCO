@@ -1,0 +1,134 @@
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.ResolveComReference.cache
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.Cache
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\obj\Debug\Interop.LFSO83Lib.dll
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Users\ignacio.perez\Documents\BMB\Clients\ASA\ASALFTool\ASALFTool\bin\Debug\Interop.LFSO83Lib.dll
+C:\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe
+C:\ASALFTool\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\ASALFTool\ASALFTool\bin\Debug\ASALFTool.xml
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbprojResolveAssemblyReference.cache
+C:\ASALFTool\ASALFTool\obj\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.ResolveComReference.cache
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.Cache
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\ASALFTool\ASALFTool\obj\Debug\Interop.LFSO83Lib.dll
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\Interop.LFSO83Lib.dll
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\Interop.LFSO83Lib.dll
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\Projects\NASCO\ASALFTool\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\Interop.LFIMAGEENABLE80Lib.dll
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ClientAutomation.dll
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ClientAutomation.xml
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\Administrator\Desktop\NASCO-ASALFTool-main\New folder\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ClientAutomation.dll
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ClientAutomation.xml
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.DocumentServices.dll
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\LaserficheImaging.dll
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.DocumentServices.xml
+C:\Users\Administrator\Desktop\New folder (4)\NASCO-ASALFTool-main\ASALFTool\bin\Debug\LaserficheImaging.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe.config
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ClientAutomation.dll
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.DocumentServices.dll
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\LaserficheImaging.dll
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\ClientAutomation.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.DocumentServices.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\bin\Debug\LaserficheImaging.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Form1.resources
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.Resources.resources
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.exe
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.xml
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.pdb
+C:\Users\Administrator\Desktop\All NASCO VERSIONS\NASCO with PDF only with POLICY\NASCO-ASALFTool-main\ASALFTool\obj\Debug\ASALFTool.vbprojAssemblyReference.cache
